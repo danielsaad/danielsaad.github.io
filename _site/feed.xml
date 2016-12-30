@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-30T13:56:17-02:00</updated><id>http://localhost:4000//</id><title type="html">Daniel Saad Nogueira Nunes</title><subtitle>Página Pessoal</subtitle><entry><title type="html">V Maratona de Programação do IFG Formosa</title><link href="http://localhost:4000/2016/09/04/v-maratona-de-programacao-do-ifg-formosa.html" rel="alternate" type="text/html" title="V Maratona de Programação do IFG Formosa" /><published>2016-09-04T21:19:38-03:00</published><updated>2016-09-04T21:19:38-03:00</updated><id>http://localhost:4000/2016/09/04/v-maratona-de-programacao-do-ifg-formosa</id><content type="html" xml:base="http://localhost:4000/2016/09/04/v-maratona-de-programacao-do-ifg-formosa.html">&lt;p&gt;Prezados,  a V Maratona de Programação do IFG Formosa será realizada dia 15 de outubro de 2016 (sábado).&lt;/p&gt;
+&lt;p&gt;O aquecimento será das 10h às 12h e a competição das 14h às 18h e ambos serão realizados nos Laboratórios de Informática do IFG-Formosa.&lt;/p&gt;
+&lt;p&gt;Encorajo os alunos dos TADS de todos os níveis para participar.&lt;/p&gt;
+&lt;p&gt;O link para inscrição é: &lt;a href=&quot;http://eventos.ifg.edu.br/secitecfsa/2016/08/16/chamada-maratona/&quot;&gt; http://eventos.ifg.edu.br/secitecfsa/2016/08/16/chamada-maratona/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A localização do Câmpus Formosa pode ser visualizado no seguinte mapa:&lt;br /&gt;
+&lt;iframe style=&quot;border: 0;&quot; src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6464.095250522932!2d-47.32514902176478!3d-15.560949687058383!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb8ffbb72c45a6bd6!2sInstituto+Federal+de+Goi%C3%A1s+%2F+C%C3%A2mpus+Formosa!5e0!3m2!1spt-BR!2sbr!4v1474482506409&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2&gt;Equipes inscritas:&lt;/h2&gt;
+&lt;p&gt;Equipe 1: &lt;strong&gt;FULLSTACK OVERKILL (IFG-Formosa)&lt;br /&gt;
+&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Alex Sandro da Silva Magalh\u00e3es Junior&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&quot;&gt;Alex Sandro da Silva Magalhães Junior&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;André Lucas Rodrigues da Silva&lt;/li&gt;
+&lt;li&gt;Maryana Marinho da Silva Melo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 2: &lt;strong&gt;Mystic (IFB-Taguatinga)&lt;br /&gt;
+&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Emilia dos Santos Martins&lt;/li&gt;
+&lt;li&gt;Lauany Reis da Silva&lt;/li&gt;
+&lt;li&gt;Raynara Câmara Cunha&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 3: &lt;strong&gt;Medusa (IFG-Formosa)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Laiane Ricardo de Araújo&lt;/li&gt;
+&lt;li&gt;Gilberto Veras Júnior&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 4: &lt;strong&gt;Supercharged Programmers (IFB-Taguatinga)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rafael de Campos Passos&lt;/li&gt;
+&lt;li&gt;Luiz Eduardo Ximenes Neto&lt;/li&gt;
+&lt;li&gt;Wendel Ribeiro de Almeida&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 5:&lt;strong&gt; Gigabirds (IFB-Taguatinga)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Samuel Novaes Sena&lt;/li&gt;
+&lt;li&gt;Luis Gustavo Benicio Neves&lt;/li&gt;
+&lt;li&gt;Camila Ribeiro Rodrigues&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 6:&lt;strong&gt; C entendeu? (IFB-Brasília)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Caio César Félix Caldeira&lt;/li&gt;
+&lt;li&gt;Gregory Henrique Moreira dos Santos Pereira&lt;/li&gt;
+&lt;li&gt;Matheus de Azevedo Feitosa Juca de Araujo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 7: &lt;strong&gt;Teorema de Offson (UnB-Gama)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lucas Vasconcelos Mattioli&lt;/li&gt;
+&lt;li&gt;Marlon Mendes Cririático Guimarães&lt;/li&gt;
+&lt;li&gt;Simião Correia Lima de Carvalho&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 8: &lt;strong&gt;War-Machine (UnB)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Samuel Silvino&lt;/li&gt;
+&lt;li&gt;Rafael Torres&lt;/li&gt;
+&lt;li&gt;André Bittencourt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 9: &lt;strong&gt;deBuggers (UnB)&lt;/strong&gt;&lt;/p&gt;
+&lt;div id=&quot;t-formula-bar-input-container&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Claudio Segala Rodrigues Silva Filho&lt;/li&gt;
+&lt;li&gt;Hector Rocha Margittay&lt;/li&gt;
+&lt;li&gt;Cristiano Krug Brust&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 10: &lt;strong&gt;3M (IFG-Formosa)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maycon Rebordão&lt;/li&gt;
+&lt;li&gt;Mateus Silva&lt;/li&gt;
+&lt;li&gt;Mateus Oliveira&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 11: &lt;strong&gt;C_mitos (IFG-Formosa)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Victor da Silva Monteiro Oliveira&lt;/li&gt;
+&lt;li&gt;Guilherme Rodrigues dos Santos&lt;/li&gt;
+&lt;li&gt;Luis Felipe Araújo Pimenta&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img class=&quot;wp-image-445 aligncenter&quot; src=&quot;/assets/code1.png&quot; alt=&quot;Maratona&quot; width=&quot;400&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;</content><author><name>{&quot;login&quot;=&gt;&quot;daniel.saad.nunes&quot;, &quot;email&quot;=&gt;&quot;daniel.saad.nunes@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;Daniel Saad&quot;, &quot;first_name&quot;=&gt;&quot;Daniel&quot;, &quot;last_name&quot;=&gt;&quot;Saad Nogueira Nunes&quot;}</name><email>daniel.saad.nunes@gmail.com</email></author><summary type="html">Prezados,  a V Maratona de Programação do IFG Formosa será realizada dia 15 de outubro de 2016 (sábado).
+O aquecimento será das 10h às 12h e a competição das 14h às 18h e ambos serão realizados nos Laboratórios de Informática do IFG-Formosa.
+Encorajo os alunos dos TADS de todos os níveis para participar.
+O link para inscrição é:  http://eventos.ifg.edu.br/secitecfsa/2016/08/16/chamada-maratona/
+A localização do Câmpus Formosa pode ser visualizado no seguinte mapa:
+
+Equipes inscritas:
+Equipe 1: FULLSTACK OVERKILL (IFG-Formosa)
+
+
+Alex Sandro da Silva Magalhães Junior
+André Lucas Rodrigues da Silva
+Maryana Marinho da Silva Melo
+
+Equipe 2: Mystic (IFB-Taguatinga)
+
+
+Emilia dos Santos Martins
+Lauany Reis da Silva
+Raynara Câmara Cunha
+
+Equipe 3: Medusa (IFG-Formosa)
+
+Laiane Ricardo de Araújo
+Gilberto Veras Júnior
+
+Equipe 4: Supercharged Programmers (IFB-Taguatinga)
+
+Rafael de Campos Passos
+Luiz Eduardo Ximenes Neto
+Wendel Ribeiro de Almeida
+
+Equipe 5: Gigabirds (IFB-Taguatinga)
+
+Samuel Novaes Sena
+Luis Gustavo Benicio Neves
+Camila Ribeiro Rodrigues
+
+Equipe 6: C entendeu? (IFB-Brasília)
+
+Caio César Félix Caldeira
+Gregory Henrique Moreira dos Santos Pereira
+Matheus de Azevedo Feitosa Juca de Araujo
+
+Equipe 7: Teorema de Offson (UnB-Gama)
+
+Lucas Vasconcelos Mattioli
+Marlon Mendes Cririático Guimarães
+Simião Correia Lima de Carvalho
+
+Equipe 8: War-Machine (UnB)
+
+Samuel Silvino
+Rafael Torres
+André Bittencourt
+
+Equipe 9: deBuggers (UnB)
+
+
+Claudio Segala Rodrigues Silva Filho
+Hector Rocha Margittay
+Cristiano Krug Brust
+
+Equipe 10: 3M (IFG-Formosa)
+
+Maycon Rebordão
+Mateus Silva
+Mateus Oliveira
+
+Equipe 11: C_mitos (IFG-Formosa)
+
+Victor da Silva Monteiro Oliveira
+Guilherme Rodrigues dos Santos
+Luis Felipe Araújo Pimenta</summary></entry><entry><title type="html">IV Maratona de Programação do IFG Formosa</title><link href="http://localhost:4000/2016/04/27/iv-maratona-de-programacao-do-ifg-formosa.html" rel="alternate" type="text/html" title="IV Maratona de Programação do IFG Formosa" /><published>2016-04-27T15:46:36-03:00</published><updated>2016-04-27T15:46:36-03:00</updated><id>http://localhost:4000/2016/04/27/iv-maratona-de-programacao-do-ifg-formosa</id><content type="html" xml:base="http://localhost:4000/2016/04/27/iv-maratona-de-programacao-do-ifg-formosa.html">&lt;p&gt;Prezados,  a IV Maratona de Programação do IFG Formosa será realizada dia 11 de junho de 2016 (sábado).&lt;/p&gt;
+&lt;p&gt;O aquecimento será das 10h às 12h e a competição das 14h às 18h.&lt;/p&gt;
+&lt;p&gt;Encorajo os alunos dos TADS de todos os níveis para participar.&lt;/p&gt;
+&lt;p&gt;O link para inscrição é: &lt;a href=&quot;http://goo.gl/forms/Z9M8oSrcqk&quot;&gt; http://goo.gl/forms/Z9M8oSrcqk&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Equipes confirmadas:&lt;/h2&gt;
+&lt;p&gt;Equipe 1: &lt;strong&gt;FULLSTACK OVERKILL&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Alex Sandro da Silva Magalh\u00e3es Junior&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&quot;&gt;Alex Sandro da Silva Magalhães Junior&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;André Lucas Rodrigues da Silva&lt;/li&gt;
+&lt;li&gt;Maryana Marinho da Silva Melo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 2: &lt;strong&gt;SuperGirls&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daniele dos Santos Araujo&lt;/li&gt;
+&lt;li&gt;Laiane Ricardo de Araujo&lt;/li&gt;
+&lt;li&gt;Samantha Kellen Alves Gomes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 3: &lt;strong&gt;É NÓIS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Gilberto Vera&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&quot;&gt;Gilberto Vera&lt;/span&gt;s&lt;/li&gt;
+&lt;li&gt;Juliana Alves&lt;/li&gt;
+&lt;li&gt;Luis Pimenta&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 4: &lt;strong&gt;Kōritsu-tekina&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cleiyton Alex Sandro de Oliveira&lt;/li&gt;
+&lt;li&gt;Maycon Rebordão&lt;/li&gt;
+&lt;li&gt;Wellington Mesquita Santos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 5:  &lt;strong&gt;Lovelace&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alice Alves Lima&lt;/li&gt;
+&lt;li&gt;Josilene de Sousa Santos Fernandes&lt;/li&gt;
+&lt;li&gt;Joyce Braga Silva de Jesus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 6: &lt;strong&gt;PrintIF&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mateus Oliveira de Deus&lt;/li&gt;
+&lt;li&gt;Mateus Silva Perinazzo&lt;/li&gt;
+&lt;li&gt;Nelio Augusto&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 7: &lt;strong&gt;cyberNERDcos&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Caio Savio de Lira&lt;/li&gt;
+&lt;li&gt;Guilherme Rodrigues&lt;/li&gt;
+&lt;li&gt;Victor Monteiro&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 8:  &lt;strong&gt;fSociety&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Geraldo Alvez&amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;12&amp;quot;:0}&quot;&gt;Geraldo Alves&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Matheus de Carvalho &amp;quot;}&quot; data-sheets-userformat=&quot;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:{&amp;quot;1&amp;quot;:0},&amp;quot;12&amp;quot;:0}&quot;&gt;Matheus de Carvalho &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/3MjFqsK&quot;&gt;&lt;img title=&quot;source: imgur.com&quot; src=&quot;/assets/3MjFqsK.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content><author><name>{&quot;login&quot;=&gt;&quot;daniel.saad.nunes&quot;, &quot;email&quot;=&gt;&quot;daniel.saad.nunes@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;Daniel Saad&quot;, &quot;first_name&quot;=&gt;&quot;Daniel&quot;, &quot;last_name&quot;=&gt;&quot;Saad Nogueira Nunes&quot;}</name><email>daniel.saad.nunes@gmail.com</email></author><summary type="html">Prezados,  a IV Maratona de Programação do IFG Formosa será realizada dia 11 de junho de 2016 (sábado).
+O aquecimento será das 10h às 12h e a competição das 14h às 18h.
+Encorajo os alunos dos TADS de todos os níveis para participar.
+O link para inscrição é:  http://goo.gl/forms/Z9M8oSrcqk
+Equipes confirmadas:
+Equipe 1: FULLSTACK OVERKILL
+
+Alex Sandro da Silva Magalhães Junior
+André Lucas Rodrigues da Silva
+Maryana Marinho da Silva Melo
+
+Equipe 2: SuperGirls
+
+Daniele dos Santos Araujo
+Laiane Ricardo de Araujo
+Samantha Kellen Alves Gomes
+
+Equipe 3: É NÓIS
+
+Gilberto Veras
+Juliana Alves
+Luis Pimenta
+
+Equipe 4: Kōritsu-tekina
+
+Cleiyton Alex Sandro de Oliveira
+Maycon Rebordão
+Wellington Mesquita Santos
+
+Equipe 5:  Lovelace
+
+Alice Alves Lima
+Josilene de Sousa Santos Fernandes
+Joyce Braga Silva de Jesus
+
+Equipe 6: PrintIF
+
+Mateus Oliveira de Deus
+Mateus Silva Perinazzo
+Nelio Augusto
+
+Equipe 7: cyberNERDcos
+
+Caio Savio de Lira
+Guilherme Rodrigues
+Victor Monteiro
+
+Equipe 8:  fSociety
+
+Geraldo Alves
+Matheus de Carvalho 
+
+&amp;nbsp;
+
+&amp;nbsp;</summary></entry><entry><title type="html">Disciplinas no Edmodo</title><link href="http://localhost:4000/2016/02/22/disciplinas-no-edmodo.html" rel="alternate" type="text/html" title="Disciplinas no Edmodo" /><published>2016-02-22T18:18:22-03:00</published><updated>2016-02-22T18:18:22-03:00</updated><id>http://localhost:4000/2016/02/22/disciplinas-no-edmodo</id><content type="html" xml:base="http://localhost:4000/2016/02/22/disciplinas-no-edmodo.html">&lt;p&gt;Prezados&lt;/p&gt;
+&lt;p&gt;Criei as disciplinas no site Edmodo. Nele vocês poderão tirar dúvidas e ficar por dentro das notícias da disciplina.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.edmodo.com/?language=pt-br&quot;&gt;https://www.edmodo.com/?language=pt-br&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Para entrar no grupo, basta colocar que você é estudante e inserir o código da disciplina.&lt;/p&gt;
+&lt;p&gt;Seguem os códigos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lógica Computacional (TADS): s8pik3&lt;/li&gt;
+&lt;li&gt;Estruturas de Dados II (TADS):  &lt;span class=&quot;group-invite-code&quot;&gt;9emsrt&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Tópicos Avançados II (TADS) - Programação Avançada: fy3jjv&lt;/li&gt;
+&lt;li&gt;Arquitetura de Computadores (PROEJA): syyegh&lt;/li&gt;
+&lt;li&gt;Sistemas Operacionais (PROEJA): spekgq&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content><author><name>{&quot;login&quot;=&gt;&quot;daniel.saad.nunes&quot;, &quot;email&quot;=&gt;&quot;daniel.saad.nunes@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;Daniel Saad&quot;, &quot;first_name&quot;=&gt;&quot;Daniel&quot;, &quot;last_name&quot;=&gt;&quot;Saad Nogueira Nunes&quot;}</name><email>daniel.saad.nunes@gmail.com</email></author><summary type="html">Prezados
+Criei as disciplinas no site Edmodo. Nele vocês poderão tirar dúvidas e ficar por dentro das notícias da disciplina.
+https://www.edmodo.com/?language=pt-br
+Para entrar no grupo, basta colocar que você é estudante e inserir o código da disciplina.
+Seguem os códigos:
+
+Lógica Computacional (TADS): s8pik3
+Estruturas de Dados II (TADS):  9emsrt
+Tópicos Avançados II (TADS) - Programação Avançada: fy3jjv
+Arquitetura de Computadores (PROEJA): syyegh
+Sistemas Operacionais (PROEJA): spekgq
+
+&amp;nbsp;</summary></entry><entry><title type="html">TADS: Redes de Computadores -  Notas Disponíveis</title><link href="http://localhost:4000/2015/12/08/tads-redes-de-computadores-notas-disponiveis.html" rel="alternate" type="text/html" title="TADS: Redes de Computadores -  Notas Disponíveis" /><published>2015-12-08T06:36:23-02:00</published><updated>2015-12-08T06:36:23-02:00</updated><id>http://localhost:4000/2015/12/08/tads-redes-de-computadores-notas-disponiveis</id><content type="html" xml:base="http://localhost:4000/2015/12/08/tads-redes-de-computadores-notas-disponiveis.html">&lt;p&gt;Prezados. Estão disponíveis as notas finais da Disciplina de Redes de Computadores.&lt;/p&gt;
+&lt;p&gt;Qualquer objeção quanto à nota da correção do trabalho e da 3° Prova pode ser enviada por e-mail que marcaremos um horário para conversar.&lt;/p&gt;
+&lt;p&gt;Atenciosamente.&lt;/p&gt;</content><author><name>{&quot;login&quot;=&gt;&quot;daniel.saad.nunes&quot;, &quot;email&quot;=&gt;&quot;daniel.saad.nunes@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;Daniel Saad&quot;, &quot;first_name&quot;=&gt;&quot;Daniel&quot;, &quot;last_name&quot;=&gt;&quot;Saad Nogueira Nunes&quot;}</name><email>daniel.saad.nunes@gmail.com</email></author><summary type="html">Prezados. Estão disponíveis as notas finais da Disciplina de Redes de Computadores.
+Qualquer objeção quanto à nota da correção do trabalho e da 3° Prova pode ser enviada por e-mail que marcaremos um horário para conversar.
+Atenciosamente.</summary></entry><entry><title type="html">TADS: Listas de Exercícios Disponíveis</title><link href="http://localhost:4000/2015/11/25/tads-listas-de-exercicios-disponiveis.html" rel="alternate" type="text/html" title="TADS: Listas de Exercícios Disponíveis" /><published>2015-11-25T10:47:31-02:00</published><updated>2015-11-25T10:47:31-02:00</updated><id>http://localhost:4000/2015/11/25/tads-listas-de-exercicios-disponiveis</id><content type="html" xml:base="http://localhost:4000/2015/11/25/tads-listas-de-exercicios-disponiveis.html">&lt;p&gt;Prezados, as listas V e VI da disciplina de Redes de Computadores estão disponíveis.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content><author><name>{&quot;login&quot;=&gt;&quot;daniel.saad.nunes&quot;, &quot;email&quot;=&gt;&quot;daniel.saad.nunes@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;Daniel Saad&quot;, &quot;first_name&quot;=&gt;&quot;Daniel&quot;, &quot;last_name&quot;=&gt;&quot;Saad Nogueira Nunes&quot;}</name><email>daniel.saad.nunes@gmail.com</email></author><summary type="html">Prezados, as listas V e VI da disciplina de Redes de Computadores estão disponíveis.
+&amp;nbsp;</summary></entry><entry><title type="html">III Maratona de Programação: Equipes Confirmadas</title><link href="http://localhost:4000/maratona%20de%20programa%C3%A7%C3%A3o/2015/10/17/iii-maratona-de-programacao-equipes-confirmadas.html" rel="alternate" type="text/html" title="III Maratona de Programação: Equipes Confirmadas" /><published>2015-10-17T09:22:52-03:00</published><updated>2015-10-17T09:22:52-03:00</updated><id>http://localhost:4000/maratona%20de%20programa%C3%A7%C3%A3o/2015/10/17/iii-maratona-de-programacao-equipes-confirmadas</id><content type="html" xml:base="http://localhost:4000/maratona%20de%20programa%C3%A7%C3%A3o/2015/10/17/iii-maratona-de-programacao-equipes-confirmadas.html">&lt;p&gt;Equipe 1: &lt;strong&gt;The Bugs&lt;br /&gt;
+&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Samuel Caio Cardoso de Oliveira&lt;/li&gt;
+&lt;li&gt;Mateus Silva Perinazzo&lt;/li&gt;
+&lt;li&gt;Mateus Oliveira de Deus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 2: &lt;strong&gt;FULLSTACK OVERKILL&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alex Sandro da Silva Magalhães Junior&lt;/li&gt;
+&lt;li&gt;André Lucas Rodrigues da Silva&lt;/li&gt;
+&lt;li&gt;Maryana Marinho da Silva Melo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 3: &lt;strong&gt;É NOIS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span data-sheets-value=&quot;[null,2,&amp;quot;Gilberto Veras Rosa Junior&amp;quot;]&quot; data-sheets-userformat=&quot;[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]&quot;&gt;Gilberto Veras Rosa Junior&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span data-sheets-value=&quot;[null,2,&amp;quot;Luis Felipe Araujo Pimenta&amp;quot;]&quot; data-sheets-userformat=&quot;[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]&quot;&gt;Luis Felipe Araujo Pimenta&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span data-sheets-value=&quot;[null,2,&amp;quot;Wellington Mesquita Santos&amp;quot;]&quot; data-sheets-userformat=&quot;[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]&quot;&gt;Wellington Mesquita Santos&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 4:&lt;strong&gt; fSociety&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Geraldo Alves Pereira Junior&lt;/li&gt;
+&lt;li&gt;Matheus de Carvalho Sobrinho&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Equipe 5:&lt;strong&gt; Seeders&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span data-sheets-value=&quot;[null,2,&amp;quot;Jer\u00f4nimo Hermano Neves Cunha&amp;quot;]&quot; data-sheets-userformat=&quot;[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]&quot;&gt;Jerônimo Hermano Neves Cunha&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span data-sheets-value=&quot;[null,2,&amp;quot;Matheus Wisniewski&amp;quot;]&quot; data-sheets-userformat=&quot;[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]&quot;&gt;Matheus Wisniewski&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span data-sheets-value=&quot;[null,2,&amp;quot;Gabriel Hamerski Costa da Luz&amp;quot;]&quot; data-sheets-userformat=&quot;[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]&quot;&gt;Gabriel Hamerski Costa da Luz&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;O prazo de inscrição é até dia 1° de novembro. Vagas limitadas sujeitas à capacidade do Laboratório de Informática.&lt;/p&gt;</content><author><name>{&quot;login&quot;=&gt;&quot;daniel.saad.nunes&quot;, &quot;email&quot;=&gt;&quot;daniel.saad.nunes@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;Daniel Saad&quot;, &quot;first_name&quot;=&gt;&quot;Daniel&quot;, &quot;last_name&quot;=&gt;&quot;Saad Nogueira Nunes&quot;}</name><email>daniel.saad.nunes@gmail.com</email></author><summary type="html">Equipe 1: The Bugs
+
+
+Samuel Caio Cardoso de Oliveira
+Mateus Silva Perinazzo
+Mateus Oliveira de Deus
+
+Equipe 2: FULLSTACK OVERKILL
+
+Alex Sandro da Silva Magalhães Junior
+André Lucas Rodrigues da Silva
+Maryana Marinho da Silva Melo
+
+Equipe 3: É NOIS
+
+Gilberto Veras Rosa Junior
+Luis Felipe Araujo Pimenta
+Wellington Mesquita Santos
+
+Equipe 4: fSociety
+
+Geraldo Alves Pereira Junior
+Matheus de Carvalho Sobrinho
+
+Equipe 5: Seeders
+
+Jerônimo Hermano Neves Cunha
+Matheus Wisniewski
+Gabriel Hamerski Costa da Luz
+
+O prazo de inscrição é até dia 1° de novembro. Vagas limitadas sujeitas à capacidade do Laboratório de Informática.</summary></entry><entry><title type="html">TADS: Lista de Redes Disponível</title><link href="http://localhost:4000/2015/10/13/tads-lista-de-redes-disponivel.html" rel="alternate" type="text/html" title="TADS: Lista de Redes Disponível" /><published>2015-10-13T11:00:39-03:00</published><updated>2015-10-13T11:00:39-03:00</updated><id>http://localhost:4000/2015/10/13/tads-lista-de-redes-disponivel</id><content type="html" xml:base="http://localhost:4000/2015/10/13/tads-lista-de-redes-disponivel.html">&lt;p&gt;Caros. Coloquei a lista de exercícios da Camada de Rede no ar.&lt;/p&gt;
+&lt;p&gt;Esta lista vai até IPv6, isto é, até a matéria da 2° Prova.&lt;/p&gt;
+&lt;p&gt;Lembrando que a prova foi adiada para dia 27.&lt;/p&gt;</content><author><name>{&quot;login&quot;=&gt;&quot;daniel.saad.nunes&quot;, &quot;email&quot;=&gt;&quot;daniel.saad.nunes@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;Daniel Saad&quot;, &quot;first_name&quot;=&gt;&quot;Daniel&quot;, &quot;last_name&quot;=&gt;&quot;Saad Nogueira Nunes&quot;}</name><email>daniel.saad.nunes@gmail.com</email></author><summary type="html">Caros. Coloquei a lista de exercícios da Camada de Rede no ar.
+Esta lista vai até IPv6, isto é, até a matéria da 2° Prova.
+Lembrando que a prova foi adiada para dia 27.</summary></entry><entry><title type="html">Grupo Semanal de Algoritmos e Estruturas de Dados</title><link href="http://localhost:4000/2015/10/09/grupo-semanal-de-algoritmos-e-estruturas-de-dados.html" rel="alternate" type="text/html" title="Grupo Semanal de Algoritmos e Estruturas de Dados" /><published>2015-10-09T12:47:54-03:00</published><updated>2015-10-09T12:47:54-03:00</updated><id>http://localhost:4000/2015/10/09/grupo-semanal-de-algoritmos-e-estruturas-de-dados</id><content type="html" xml:base="http://localhost:4000/2015/10/09/grupo-semanal-de-algoritmos-e-estruturas-de-dados.html">&lt;p&gt;Prezados, estou inaugurando um Grupo Semanal de Algoritmos e Estruturas de Dados.&lt;/p&gt;
+&lt;p&gt;O objetivo deste grupo é nivelar os alunos e tentar tirar dúvidas sobre tais conceitos.&lt;/p&gt;
+&lt;p&gt;As reuniões serão semanais às segundas-feiras a partir do período da Tarde.&lt;/p&gt;</content><author><name>{&quot;login&quot;=&gt;&quot;daniel.saad.nunes&quot;, &quot;email&quot;=&gt;&quot;daniel.saad.nunes@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;Daniel Saad&quot;, &quot;first_name&quot;=&gt;&quot;Daniel&quot;, &quot;last_name&quot;=&gt;&quot;Saad Nogueira Nunes&quot;}</name><email>daniel.saad.nunes@gmail.com</email></author><summary type="html">Prezados, estou inaugurando um Grupo Semanal de Algoritmos e Estruturas de Dados.
+O objetivo deste grupo é nivelar os alunos e tentar tirar dúvidas sobre tais conceitos.
+As reuniões serão semanais às segundas-feiras a partir do período da Tarde.</summary></entry><entry><title type="html">Redes de Computadores: Lista Disponível</title><link href="http://localhost:4000/2015/10/07/redes-de-computadores-lista-disponivel.html" rel="alternate" type="text/html" title="Redes de Computadores: Lista Disponível" /><published>2015-10-07T10:58:18-03:00</published><updated>2015-10-07T10:58:18-03:00</updated><id>http://localhost:4000/2015/10/07/redes-de-computadores-lista-disponivel</id><content type="html" xml:base="http://localhost:4000/2015/10/07/redes-de-computadores-lista-disponivel.html">&lt;p&gt;Prezados.&lt;/p&gt;
+&lt;p&gt;A Lista relativa à Camada de Transporte está disponível.&lt;/p&gt;
+&lt;p&gt;Em breve coloco a lista da Camada de Rede.&lt;/p&gt;</content><author><name>{&quot;login&quot;=&gt;&quot;daniel.saad.nunes&quot;, &quot;email&quot;=&gt;&quot;daniel.saad.nunes@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;Daniel Saad&quot;, &quot;first_name&quot;=&gt;&quot;Daniel&quot;, &quot;last_name&quot;=&gt;&quot;Saad Nogueira Nunes&quot;}</name><email>daniel.saad.nunes@gmail.com</email></author><summary type="html">Prezados.
+A Lista relativa à Camada de Transporte está disponível.
+Em breve coloco a lista da Camada de Rede.</summary></entry><entry><title type="html">III Maratona de Programação</title><link href="http://localhost:4000/2015/09/29/iii-maratona-de-programacao.html" rel="alternate" type="text/html" title="III Maratona de Programação" /><published>2015-09-29T15:02:51-03:00</published><updated>2015-09-29T15:02:51-03:00</updated><id>http://localhost:4000/2015/09/29/iii-maratona-de-programacao</id><content type="html" xml:base="http://localhost:4000/2015/09/29/iii-maratona-de-programacao.html">&lt;p&gt;A Maratona de Programação é um evento realizado pela Sociedade Brasileira de Computação cujo objetivo é proporcionar o desenvolvimento da criatividade, trabalho em equipe, busca de novas soluções e técnicas computacionais em prol de resolver problemas em um tempo limitado.&lt;/p&gt;
+&lt;p&gt;A Maratona de Programação é uma competição na qual grupos de três pessoas devem resolver o maior número de problemas possíveis no tempo delimitado. A competição é divida nas fases Regional e Sul-Americana. As melhores equipes são classificadas para o ACM-ICPC (International Collegiate Programming Contest).&lt;/p&gt;
+&lt;p&gt;Os problemas são descritos através de enunciados, muitas das vezes com certo grau de humor &lt;em&gt;nerd&lt;/em&gt; ou &lt;em&gt;geek&lt;/em&gt;. Exemplos de entrada e saídas esperados pelo programa a ser codificado pelos grupos também são dados.&lt;/p&gt;
+&lt;p&gt;Apesar de aparentemente inofensivos, os problemas da Maratona, muitas vezes envolvem conceitos complexos e cuja solução é aplicável no mundo real, especialmente em problemas de otimização, em que se procura obter a melhor solução possível.&lt;/p&gt;
+&lt;p&gt;Não é exagero dizer que um aluno que se aprofunda nesse tipo de competição está preparado para resolver problemas concretos, uma vez que, para obter êxito na competição, deve-se ter domínio de: Programação Dinâmica, Algoritmos Gulosos, Teoria dos Grafos, Teoria dos Números, Geometria Analítica, dentre várias outras técnicas e paradigmas de programação.&lt;/p&gt;
+&lt;p&gt;Cada time submete sua solução (através de um programa codificado em uma Linguagem de Programação), e um Juiz humano, com ajuda de uma plataforma computacional, compara as saídas do programa do time com as saídas esperadas. Desta forma, o Juiz pode dizer se a solução foi aceita ou ainda apresenta falhas.&lt;br /&gt;
+A versão local da competição, organizada pelo Grupo de Informática do IFG Formosa, é realizada na SECITEC Formosa há dois anos. Em 2015, a competição será aberta a estudantes de outras instituições e ocorrerá no dia &lt;strong&gt;20 de novembro&lt;/strong&gt;. Participem!&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Link de inscrição: &lt;a href=&quot;http://goo.gl/forms/H1ZQD5GgVl&quot;&gt;http://goo.gl/forms/H1ZQD5GgVl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chamada para a III Maratona de Programação: &lt;a href=&quot;http://blogs.ifg.edu.br/visecitecfsa/files/2015/09/III-Maratona-de-Programa%C3%A7%C3%A3o-Chamada.pdf&quot;&gt;http://blogs.ifg.edu.br/visecitecfsa/files/2015/09/III-Maratona-de-Programa%C3%A7%C3%A3o-Chamada.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mais informações: &lt;a href=&quot;http://blogs.ifg.edu.br/visecitecfsa/3-maratona-de-programacao/&quot;&gt;http://blogs.ifg.edu.br/visecitecfsa/3-maratona-de-programacao/&lt;/a&gt;&lt;/p&gt;</content><author><name>{&quot;login&quot;=&gt;&quot;daniel.saad.nunes&quot;, &quot;email&quot;=&gt;&quot;daniel.saad.nunes@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;Daniel Saad&quot;, &quot;first_name&quot;=&gt;&quot;Daniel&quot;, &quot;last_name&quot;=&gt;&quot;Saad Nogueira Nunes&quot;}</name><email>daniel.saad.nunes@gmail.com</email></author><summary type="html">A Maratona de Programação é um evento realizado pela Sociedade Brasileira de Computação cujo objetivo é proporcionar o desenvolvimento da criatividade, trabalho em equipe, busca de novas soluções e técnicas computacionais em prol de resolver problemas em um tempo limitado.
+A Maratona de Programação é uma competição na qual grupos de três pessoas devem resolver o maior número de problemas possíveis no tempo delimitado. A competição é divida nas fases Regional e Sul-Americana. As melhores equipes são classificadas para o ACM-ICPC (International Collegiate Programming Contest).
+Os problemas são descritos através de enunciados, muitas das vezes com certo grau de humor nerd ou geek. Exemplos de entrada e saídas esperados pelo programa a ser codificado pelos grupos também são dados.
+Apesar de aparentemente inofensivos, os problemas da Maratona, muitas vezes envolvem conceitos complexos e cuja solução é aplicável no mundo real, especialmente em problemas de otimização, em que se procura obter a melhor solução possível.
+Não é exagero dizer que um aluno que se aprofunda nesse tipo de competição está preparado para resolver problemas concretos, uma vez que, para obter êxito na competição, deve-se ter domínio de: Programação Dinâmica, Algoritmos Gulosos, Teoria dos Grafos, Teoria dos Números, Geometria Analítica, dentre várias outras técnicas e paradigmas de programação.
+Cada time submete sua solução (através de um programa codificado em uma Linguagem de Programação), e um Juiz humano, com ajuda de uma plataforma computacional, compara as saídas do programa do time com as saídas esperadas. Desta forma, o Juiz pode dizer se a solução foi aceita ou ainda apresenta falhas.
+A versão local da competição, organizada pelo Grupo de Informática do IFG Formosa, é realizada na SECITEC Formosa há dois anos. Em 2015, a competição será aberta a estudantes de outras instituições e ocorrerá no dia 20 de novembro. Participem!
+
+&amp;nbsp;
+Link de inscrição: http://goo.gl/forms/H1ZQD5GgVl
+Chamada para a III Maratona de Programação: http://blogs.ifg.edu.br/visecitecfsa/files/2015/09/III-Maratona-de-Programa%C3%A7%C3%A3o-Chamada.pdf
+Mais informações: http://blogs.ifg.edu.br/visecitecfsa/3-maratona-de-programacao/</summary></entry></feed>
