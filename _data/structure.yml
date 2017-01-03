@@ -1,0 +1,11 @@
+- name: Posts
+  url: "/"
+- name: Disciplinas
+  url: "/disciplinas/2013-12-19-disciplinas.html"
+- name: Maratona de Programação
+  url: "/maratona-de-programacao/2015-11-07-maratona-de-programacao"
+  submenu:
+  - name: Hall da Fama
+    url: "/maratona-de-programacao/hall-da-fama/hall-da-fama"
+- name: Sobre
+  url: "/sobre/2015-08-13-sobre"
