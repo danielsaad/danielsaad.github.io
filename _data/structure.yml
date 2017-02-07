@@ -2,6 +2,8 @@
   url: "/"
 - name: Disciplinas
   url: "/disciplinas/2013-12-19-disciplinas.html"
+- name: Calendário
+  url: "/calendario/2015-05-05-calendario.html"
 - name: Maratona de Programação
   url: "/maratona-de-programacao/2015-11-07-maratona-de-programacao"
   submenu:
