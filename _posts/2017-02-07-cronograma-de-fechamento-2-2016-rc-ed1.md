@@ -3,6 +3,7 @@
   title: Cronograma de fechamento 2/2016 (RC e ED1)
   published: true
   status: publish
+  comments: true
 ---
 
 Prezados alunos do TADS que estão cursando Estruturas de Dados I e Redes de Computadores.
