@@ -40,6 +40,9 @@ layout: default
     </p>
   </div>
   {% endfor %}
+
+  {% include sharing.html %}
+  <p></p>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 </div>
 {% if paginator.total_pages > 1 %}
