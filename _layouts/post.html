@@ -14,10 +14,10 @@ layout: default
     {{ content }}
   </div>
 
-  {% include sharing.html %}
-
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
   {% endif %}
 </article>
+{% include sharing.html %}
+
 {% include disqus.html %}
