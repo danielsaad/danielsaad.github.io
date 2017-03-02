@@ -26,7 +26,7 @@ Entrei em contato com realidades de vida que eu nunca havia encarado antes, bem 
 
 Aprendi bastante, talvez até mais do que eu tenha ensinado. Posso dizer que hoje sou um profissional melhor devido a todos estes desafios e pessoas que eu encontrei.
 
-Honestamente, eu me doei muito ao curso. Sempre procurei fazer o máximo de modo a viabilizar uma boa formação para estes jovens. Ofereci uma série de oficinas, orientações de iniciação científica, orientações de TCC, mini-cursos e maratonas de programação de modo a tentar disseminar todo o meu conhecimento para eles. Alguns eventos foram um sucesso, e outros nem tanto, mas acredito que isso faz parte da profissão.
+Honestamente, eu me doei muito ao curso. Sempre procurei fazer o máximo de modo a viabilizar uma boa formação para estes jovens. Além das minhas disciplinas, ofereci uma série de oficinas, orientações de iniciação científica, orientações de TCC, mini-cursos e maratonas de programação de modo a tentar disseminar todo o meu conhecimento para eles. Alguns eventos foram um sucesso, e outros nem tanto, mas acredito que isso faz parte da profissão.
 
 Hoje, no dia 2 de março de 2017, fui surpreendido com uma homenagem feita pelos alunos do TADS. Realmente não esperava por isso, pois geralmente sou visto como um professor "linha dura", cujas disciplinas são difíceis, então foi uma surpresa positiva. Senti que o trabalho duro foi gratificado e reconhecido pelos meus estudantes, e isso para um professor vale muito.
 
