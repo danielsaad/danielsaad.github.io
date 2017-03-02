@@ -34,7 +34,7 @@ Assim, eu apenas gostaria de agradecer a oportunidade que tive de dar aula para 
 
 Desejo todo o sucesso do mundo para essa turma e gostaria de dizer que, sempre que puder fazer algo para ajudar, podem contar comigo.
 
-Seja qual forem os meus futuros desafios, levarei todos os meus alunos do TADS comigo, mesmo que de uma forma não presencial. Todos me ensinaram alguma coisa.
+Seja quais forem os meus futuros desafios, levarei todos os meus alunos do TADS comigo, mesmo que de uma forma não presencial. Todos me ensinaram alguma coisa.
 
 Um grande abraço.
 
