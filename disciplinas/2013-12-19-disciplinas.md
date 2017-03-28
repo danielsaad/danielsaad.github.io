@@ -16,14 +16,16 @@ meta:
   _thumbnail_id: '256'
   _edit_last: '1'
 author:
-  login: danielsaad88
-  email: saaddan@gmail.com
-  display_name: Daniel
+  display_name: Daniel Saad
   first_name: ''
   last_name: ''
 ---
 
 # 1°/2017 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
+
+* Análise de Algoritmos (BCC)
+* Tópicos em Computação II (BCC)
+* Estruturas de Dados e Algoritmos (ABI)
 
 # 2°/2016 - Instituto Federal de Educação, Ciência e Tecnologia de Goiás
 
