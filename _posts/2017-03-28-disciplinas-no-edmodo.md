@@ -10,3 +10,9 @@ Prezados, utilizaremos a plataforma [Edmodo](http://edmodo.com) em nossas discip
 vocês terão acesso aos materiais e poderão utilizar o fórum para retirar dúvidas.
 
 Sugiro que vocês façam o cadastro nesta plataforma para podermos utilizá-la.
+
+O código de acesso para cada disciplina é:
+
+* Análise de Algoritmos (CC): mrqwij
+* Estruturas de Dados e Algoritmos (CC): tfuuev
+* Tópicos em Computação II (CC): 5sapud
