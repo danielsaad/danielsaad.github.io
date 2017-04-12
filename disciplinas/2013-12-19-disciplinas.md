@@ -1,9 +1,8 @@
 ---
-layout: page
 title: Disciplinas
-date: 2013-12-19 23:57:38.000000000 -02:00
+date: 2013-12-20 01:57:38 Z
+layout: page
 type: page
-published: true
 status: publish
 categories: []
 tags: []

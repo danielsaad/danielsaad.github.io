@@ -1,9 +1,9 @@
 ---
-  layout: post
-  title: Disciplinas no Edmodo
-  published: true
-  status: publish
-  comments: true
+title: Disciplinas no Edmodo
+date: 2017-03-28 00:00:00 Z
+layout: post
+status: publish
+comments: true
 ---
 
 Prezados, utilizaremos a plataforma [Edmodo](http://edmodo.com) em nossas disciplinas. Através dela

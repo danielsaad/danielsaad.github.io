@@ -1,9 +1,9 @@
 ---
-  layout: post
-  title: Sobre Homenagem do TADS
-  published: true
-  status: publish
-  comments: true
+title: Sobre Homenagem do TADS
+date: 2017-03-02 00:00:00 Z
+layout: post
+status: publish
+comments: true
 ---
 
 Bom, não sou muito confortável com despedidas, mas tenho algo a dizer.
