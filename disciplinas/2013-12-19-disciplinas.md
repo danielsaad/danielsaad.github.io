@@ -1,9 +1,8 @@
 ---
-layout: page
 title: Disciplinas
-date: 2013-12-19 23:57:38.000000000 -02:00
+date: 2013-12-20 01:57:38 Z
+layout: page
 type: page
-published: true
 status: publish
 categories: []
 tags: []
@@ -23,9 +22,9 @@ author:
 
 # 1°/2017 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
-* Análise de Algoritmos (BCC)
-* Tópicos em Computação II (BCC)
-* Estruturas de Dados e Algoritmos (ABI)
+* Análise de Algoritmos (CC)
+* Tópicos em Computação II (CC)
+* Estruturas de Dados e Algoritmos (CC)
 
 # 2°/2016 - Instituto Federal de Educação, Ciência e Tecnologia de Goiás
 

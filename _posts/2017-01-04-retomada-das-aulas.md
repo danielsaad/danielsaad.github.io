@@ -1,8 +1,8 @@
 ---
-  layout: post
-  title: Retomada das Aulas
-  published: true
-  status: publish
+title: Retomada das Aulas
+date: 2017-01-04 00:00:00 Z
+layout: post
+status: publish
 ---
 
 Prezados, por conta da ocupação e greve de servidores do
