@@ -8,7 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-
 defaults:
 - scope:
     path: ''
@@ -22,16 +21,13 @@ defaults:
     type: pages
   values:
     layout: page
-    excerpt:
+    excerpt: 
 locale: pt_BR
 description: Página Pessoal
 search: true
 url: https://dsnnunes.com.br
-
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
+permalink: "/:categories/:title/"
+markdown: kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
@@ -74,23 +70,23 @@ exclude:
 - vendor
 owner:
   name: Daniel Saad
-  avatar:
+  avatar: 
   email: daniel.saad.nunes@gmail.com
   disqus-shortname: http-www-dsnnunes-com-br
-  twitter:
-  facebook:
-  github:
-  stackexchange:
-  linkedin:
-  instagram:
-  flickr:
-  tumblr:
-  pinterest:
-  weibo:
+  twitter: 
+  facebook: 
+  github: 
+  stackexchange: 
+  linkedin: 
+  instagram: 
+  flickr: 
+  tumblr: 
+  pinterest: 
+  weibo: 
   google:
-    plus:
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+    plus: 
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
