@@ -1,0 +1,20 @@
+# Site navigation links
+
+
+#- title: Articles
+#  url: /articles/
+
+- title: Blog
+  url: /blog/
+
+- title: Disciplinas
+  url: /disciplinas/
+
+- title: Calendário
+  url: /calendario/
+
+- title: Busca
+  url: /busca/
+
+- title: Sobre
+  url: /sobre/
