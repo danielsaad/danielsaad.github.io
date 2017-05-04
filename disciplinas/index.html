@@ -1,6 +1,6 @@
 ---
 title: Disciplinas
-date: 2013-12-20
+date: 2013-12-20 00:00:00 Z
 layout: page
 ---
 

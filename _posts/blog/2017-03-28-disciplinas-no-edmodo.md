@@ -1,6 +1,6 @@
 ---
 title: Disciplinas no Edmodo
-date: 2017-03-28 00:00:00 
+date: 2017-03-28 00:00:00 Z
 layout: post
 status: publish
 comments: true
