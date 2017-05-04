@@ -22,6 +22,7 @@ defaults:
   values:
     layout: page
     excerpt: 
+
 locale: pt_BR
 description: Página Pessoal
 search: true
