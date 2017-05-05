@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-02T19:13:51+00:00</updated><id>http://localhost:4000//</id><title type="html">Daniel Saad Nogueira Nunes</title><subtitle>Página Pessoal</subtitle><entry><title type="html">Disciplinas no Edmodo</title><link href="http://localhost:4000/2017/03/28/disciplinas-no-edmodo.html" rel="alternate" type="text/html" title="Disciplinas no Edmodo" /><published>2017-03-28T00:00:00+00:00</published><updated>2017-03-28T00:00:00+00:00</updated><id>http://localhost:4000/2017/03/28/disciplinas-no-edmodo</id><content type="html" xml:base="http://localhost:4000/2017/03/28/disciplinas-no-edmodo.html">&lt;p&gt;Prezados, utilizaremos a plataforma &lt;a href=&quot;http://edmodo.com&quot;&gt;Edmodo&lt;/a&gt; em nossas disciplinas. Através dela
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://dsnnunes.com.br/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dsnnunes.com.br/" rel="alternate" type="text/html" /><updated>2017-05-05T22:24:28+00:00</updated><id>https://dsnnunes.com.br/</id><title type="html">Daniel Saad Nogueira Nunes</title><subtitle>Página Pessoal</subtitle><entry><title type="html">Disciplinas no Edmodo</title><link href="https://dsnnunes.com.br/blog/disciplinas-no-edmodo/" rel="alternate" type="text/html" title="Disciplinas no Edmodo" /><published>2017-03-28T00:00:00+00:00</published><updated>2017-03-28T00:00:00+00:00</updated><id>https://dsnnunes.com.br/blog/disciplinas-no-edmodo</id><content type="html" xml:base="https://dsnnunes.com.br/blog/disciplinas-no-edmodo/">&lt;p&gt;Prezados, utilizaremos a plataforma &lt;a href=&quot;http://edmodo.com&quot;&gt;Edmodo&lt;/a&gt; em nossas disciplinas. Através dela
 vocês terão acesso aos materiais e poderão utilizar o fórum para retirar dúvidas.&lt;/p&gt;
 
 &lt;p&gt;Sugiro que vocês façam o cadastro nesta plataforma para podermos utilizá-la.&lt;/p&gt;
@@ -9,8 +9,7 @@ vocês terão acesso aos materiais e poderão utilizar o fórum para retirar dú
   &lt;li&gt;Análise de Algoritmos (CC): mrqwij&lt;/li&gt;
   &lt;li&gt;Estruturas de Dados e Algoritmos (CC): tfuuev&lt;/li&gt;
   &lt;li&gt;Tópicos em Computação II (CC): 5sapud&lt;/li&gt;
-&lt;/ul&gt;</content><summary type="html">Prezados, utilizaremos a plataforma Edmodo em nossas disciplinas. Através dela
-vocês terão acesso aos materiais e poderão utilizar o fórum para retirar dúvidas.</summary></entry><entry><title type="html">Sobre Homenagem do TADS</title><link href="http://localhost:4000/2017/03/02/sobre-homenagem-do-tads.html" rel="alternate" type="text/html" title="Sobre Homenagem do TADS" /><published>2017-03-02T00:00:00+00:00</published><updated>2017-03-02T00:00:00+00:00</updated><id>http://localhost:4000/2017/03/02/sobre-homenagem-do-tads</id><content type="html" xml:base="http://localhost:4000/2017/03/02/sobre-homenagem-do-tads.html">&lt;p&gt;Bom, não sou muito confortável com despedidas, mas tenho algo a dizer.&lt;/p&gt;
+&lt;/ul&gt;</content></entry><entry><title type="html">Sobre Homenagem do TADS</title><link href="https://dsnnunes.com.br/blog/sobre-homenagem-do-tads/" rel="alternate" type="text/html" title="Sobre Homenagem do TADS" /><published>2017-03-02T00:00:00+00:00</published><updated>2017-03-02T00:00:00+00:00</updated><id>https://dsnnunes.com.br/blog/sobre-homenagem-do-tads</id><content type="html" xml:base="https://dsnnunes.com.br/blog/sobre-homenagem-do-tads/">&lt;p&gt;Bom, não sou muito confortável com despedidas, mas tenho algo a dizer.&lt;/p&gt;
 
 &lt;p&gt;Quando cheguei no IFG-Formosa, no primeiro semestre de 2014, tive contato
 imediato com o curso superior de tecnologia em Análise e Desenvolvimento de Sistemas (TADS).&lt;/p&gt;
@@ -44,7 +43,7 @@ imediato com o curso superior de tecnologia em Análise e Desenvolvimento de Sis
 
 &lt;p&gt;Um grande abraço.&lt;/p&gt;
 
-&lt;p&gt;Daniel Saad&lt;/p&gt;</content><summary type="html">Bom, não sou muito confortável com despedidas, mas tenho algo a dizer.</summary></entry><entry><title type="html">Cronograma de fechamento 2/2016 (RC e ED1)</title><link href="http://localhost:4000/2017/02/07/cronograma-de-fechamento-2-2016-rc-ed1.html" rel="alternate" type="text/html" title="Cronograma de fechamento 2/2016 (RC e ED1)" /><published>2017-02-07T00:00:00+00:00</published><updated>2017-02-07T00:00:00+00:00</updated><id>http://localhost:4000/2017/02/07/cronograma-de-fechamento-2-2016-rc-ed1</id><content type="html" xml:base="http://localhost:4000/2017/02/07/cronograma-de-fechamento-2-2016-rc-ed1.html">&lt;p&gt;Prezados alunos do TADS que estão cursando Estruturas de Dados I e Redes de Computadores.
+&lt;p&gt;Daniel Saad&lt;/p&gt;</content></entry><entry><title type="html">Cronograma de fechamento 2/2016 (RC e ED1)</title><link href="https://dsnnunes.com.br/blog/cronograma-de-fechamento-2-2016-rc-ed1/" rel="alternate" type="text/html" title="Cronograma de fechamento 2/2016 (RC e ED1)" /><published>2017-02-07T00:00:00+00:00</published><updated>2017-02-07T00:00:00+00:00</updated><id>https://dsnnunes.com.br/blog/cronograma-de-fechamento-2-2016-rc-ed1</id><content type="html" xml:base="https://dsnnunes.com.br/blog/cronograma-de-fechamento-2-2016-rc-ed1/">&lt;p&gt;Prezados alunos do TADS que estão cursando Estruturas de Dados I e Redes de Computadores.
 Conforme combinado em sala de aula, teremos o seguinte cronograma para finalizar o semestre letivo:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -53,14 +52,10 @@ Conforme combinado em sala de aula, teremos o seguinte cronograma para finalizar
   &lt;li&gt;03/03: Prova III de Estruturas de Dados 1.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;O cronograma já está disponível na seção “Calendário” do site, como de costume.&lt;/p&gt;</content><summary type="html">Prezados alunos do TADS que estão cursando Estruturas de Dados I e Redes de Computadores.
-Conforme combinado em sala de aula, teremos o seguinte cronograma para finalizar o semestre letivo:</summary></entry><entry><title type="html">Retomada das Aulas</title><link href="http://localhost:4000/2017/01/04/retomada-das-aulas.html" rel="alternate" type="text/html" title="Retomada das Aulas" /><published>2017-01-04T00:00:00+00:00</published><updated>2017-01-04T00:00:00+00:00</updated><id>http://localhost:4000/2017/01/04/retomada-das-aulas</id><content type="html" xml:base="http://localhost:4000/2017/01/04/retomada-das-aulas.html">&lt;p&gt;Prezados, por conta da ocupação e greve de servidores do
+&lt;p&gt;O cronograma já está disponível na seção “Calendário” do site, como de costume.&lt;/p&gt;</content></entry><entry><title type="html">Retomada das Aulas</title><link href="https://dsnnunes.com.br/blog/retomada-das-aulas/" rel="alternate" type="text/html" title="Retomada das Aulas" /><published>2017-01-04T00:00:00+00:00</published><updated>2017-01-04T00:00:00+00:00</updated><id>https://dsnnunes.com.br/blog/retomada-das-aulas</id><content type="html" xml:base="https://dsnnunes.com.br/blog/retomada-das-aulas/">&lt;p&gt;Prezados, por conta da ocupação e greve de servidores do
 IFG Formosa, as aulas serão retomadas em 1 de fevereiro de 2017,
 por decisão do Concâmpus, para concluir
-o 2° semestre letivo de 2016 com previsão de término no final de março.&lt;/p&gt;</content><summary type="html">Prezados, por conta da ocupação e greve de servidores do
-IFG Formosa, as aulas serão retomadas em 1 de fevereiro de 2017,
-por decisão do Concâmpus, para concluir
-o 2° semestre letivo de 2016 com previsão de término no final de março.</summary></entry><entry><title type="html">V Maratona de Programação do IFG Formosa</title><link href="http://localhost:4000/2016/09/05/v-maratona-de-programacao-do-ifg-formosa.html" rel="alternate" type="text/html" title="V Maratona de Programação do IFG Formosa" /><published>2016-09-05T00:19:38+00:00</published><updated>2016-09-05T00:19:38+00:00</updated><id>http://localhost:4000/2016/09/05/v-maratona-de-programacao-do-ifg-formosa</id><content type="html" xml:base="http://localhost:4000/2016/09/05/v-maratona-de-programacao-do-ifg-formosa.html">&lt;p&gt;Prezados,  a V Maratona de Programação do IFG Formosa será realizada dia 15 de outubro de 2016 (sábado).&lt;/p&gt;
+o 2° semestre letivo de 2016 com previsão de término no final de março.&lt;/p&gt;</content></entry><entry><title type="html">V Maratona de Programação do IFG Formosa</title><link href="https://dsnnunes.com.br/blog/v-maratona-de-programacao-do-ifg-formosa/" rel="alternate" type="text/html" title="V Maratona de Programação do IFG Formosa" /><published>2016-09-05T00:19:38+00:00</published><updated>2016-09-05T00:19:38+00:00</updated><id>https://dsnnunes.com.br/blog/v-maratona-de-programacao-do-ifg-formosa</id><content type="html" xml:base="https://dsnnunes.com.br/blog/v-maratona-de-programacao-do-ifg-formosa/">&lt;p&gt;Prezados,  a V Maratona de Programação do IFG Formosa será realizada dia 15 de outubro de 2016 (sábado).&lt;/p&gt;
 &lt;p&gt;O aquecimento será das 10h às 12h e a competição das 14h às 18h e ambos serão realizados nos Laboratórios de Informática do IFG-Formosa.&lt;/p&gt;
 &lt;p&gt;Encorajo os alunos dos TADS de todos os níveis para participar.&lt;/p&gt;
 &lt;p&gt;O link para inscrição é: &lt;a href=&quot;http://eventos.ifg.edu.br/secitecfsa/2016/08/16/chamada-maratona/&quot;&gt; http://eventos.ifg.edu.br/secitecfsa/2016/08/16/chamada-maratona/&lt;/a&gt;&lt;/p&gt;
@@ -136,80 +131,7 @@ o 2° semestre letivo de 2016 com previsão de término no final de março.</sum
 &lt;li&gt;Luis Felipe Araújo Pimenta&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;img class=&quot;wp-image-445 aligncenter&quot; src=&quot;/assets/code1.png&quot; alt=&quot;Maratona&quot; width=&quot;400&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;</content><summary type="html">Prezados,  a V Maratona de Programação do IFG Formosa será realizada dia 15 de outubro de 2016 (sábado).
-O aquecimento será das 10h às 12h e a competição das 14h às 18h e ambos serão realizados nos Laboratórios de Informática do IFG-Formosa.
-Encorajo os alunos dos TADS de todos os níveis para participar.
-O link para inscrição é:  http://eventos.ifg.edu.br/secitecfsa/2016/08/16/chamada-maratona/
-A localização do Câmpus Formosa pode ser visualizado no seguinte mapa:
-
-Equipes inscritas:
-Equipe 1: FULLSTACK OVERKILL (IFG-Formosa)
-
-
-Alex Sandro da Silva Magalhães Junior
-André Lucas Rodrigues da Silva
-Maryana Marinho da Silva Melo
-
-Equipe 2: Mystic (IFB-Taguatinga)
-
-
-Emilia dos Santos Martins
-Lauany Reis da Silva
-Raynara Câmara Cunha
-
-Equipe 3: Medusa (IFG-Formosa)
-
-Laiane Ricardo de Araújo
-Gilberto Veras Júnior
-
-Equipe 4: Supercharged Programmers (IFB-Taguatinga)
-
-Rafael de Campos Passos
-Luiz Eduardo Ximenes Neto
-Wendel Ribeiro de Almeida
-
-Equipe 5: Gigabirds (IFB-Taguatinga)
-
-Samuel Novaes Sena
-Luis Gustavo Benicio Neves
-Camila Ribeiro Rodrigues
-
-Equipe 6: C entendeu? (IFB-Brasília)
-
-Caio César Félix Caldeira
-Gregory Henrique Moreira dos Santos Pereira
-Matheus de Azevedo Feitosa Juca de Araujo
-
-Equipe 7: Teorema de Offson (UnB-Gama)
-
-Lucas Vasconcelos Mattioli
-Marlon Mendes Cririático Guimarães
-Simião Correia Lima de Carvalho
-
-Equipe 8: War-Machine (UnB)
-
-Samuel Silvino
-Rafael Torres
-André Bittencourt
-
-Equipe 9: deBuggers (UnB)
-
-
-Claudio Segala Rodrigues Silva Filho
-Hector Rocha Margittay
-Cristiano Krug Brust
-
-Equipe 10: 3M (IFG-Formosa)
-
-Maycon Rebordão
-Mateus Silva
-Mateus Oliveira
-
-Equipe 11: C_mitos (IFG-Formosa)
-
-Victor da Silva Monteiro Oliveira
-Guilherme Rodrigues dos Santos
-Luis Felipe Araújo Pimenta</summary></entry><entry><title type="html">IV Maratona de Programação do IFG Formosa</title><link href="http://localhost:4000/2016/04/27/iv-maratona-de-programacao-do-ifg-formosa.html" rel="alternate" type="text/html" title="IV Maratona de Programação do IFG Formosa" /><published>2016-04-27T18:46:36+00:00</published><updated>2016-04-27T18:46:36+00:00</updated><id>http://localhost:4000/2016/04/27/iv-maratona-de-programacao-do-ifg-formosa</id><content type="html" xml:base="http://localhost:4000/2016/04/27/iv-maratona-de-programacao-do-ifg-formosa.html">&lt;p&gt;Prezados,  a IV Maratona de Programação do IFG Formosa será realizada dia 11 de junho de 2016 (sábado).&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;wp-image-445 aligncenter&quot; src=&quot;/assets/code1.png&quot; alt=&quot;Maratona&quot; width=&quot;400&quot; height=&quot;400&quot; /&gt;&lt;/p&gt;</content></entry><entry><title type="html">IV Maratona de Programação do IFG Formosa</title><link href="https://dsnnunes.com.br/blog/iv-maratona-de-programacao-do-ifg-formosa/" rel="alternate" type="text/html" title="IV Maratona de Programação do IFG Formosa" /><published>2016-04-27T18:46:36+00:00</published><updated>2016-04-27T18:46:36+00:00</updated><id>https://dsnnunes.com.br/blog/iv-maratona-de-programacao-do-ifg-formosa</id><content type="html" xml:base="https://dsnnunes.com.br/blog/iv-maratona-de-programacao-do-ifg-formosa/">&lt;p&gt;Prezados,  a IV Maratona de Programação do IFG Formosa será realizada dia 11 de junho de 2016 (sábado).&lt;/p&gt;
 &lt;p&gt;O aquecimento será das 10h às 12h e a competição das 14h às 18h.&lt;/p&gt;
 &lt;p&gt;Encorajo os alunos dos TADS de todos os níveis para participar.&lt;/p&gt;
 &lt;p&gt;O link para inscrição é: &lt;a href=&quot;http://goo.gl/forms/Z9M8oSrcqk&quot;&gt; http://goo.gl/forms/Z9M8oSrcqk&lt;/a&gt;&lt;/p&gt;
@@ -263,61 +185,7 @@ Luis Felipe Araújo Pimenta</summary></entry><entry><title type="html">IV Marato
 &lt;/ul&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://imgur.com/3MjFqsK&quot;&gt;&lt;img title=&quot;source: imgur.com&quot; src=&quot;/assets/3MjFqsK.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content><summary type="html">Prezados,  a IV Maratona de Programação do IFG Formosa será realizada dia 11 de junho de 2016 (sábado).
-O aquecimento será das 10h às 12h e a competição das 14h às 18h.
-Encorajo os alunos dos TADS de todos os níveis para participar.
-O link para inscrição é:  http://goo.gl/forms/Z9M8oSrcqk
-Equipes confirmadas:
-Equipe 1: FULLSTACK OVERKILL
-
-Alex Sandro da Silva Magalhães Junior
-André Lucas Rodrigues da Silva
-Maryana Marinho da Silva Melo
-
-Equipe 2: SuperGirls
-
-Daniele dos Santos Araujo
-Laiane Ricardo de Araujo
-Samantha Kellen Alves Gomes
-
-Equipe 3: É NÓIS
-
-Gilberto Veras
-Juliana Alves
-Luis Pimenta
-
-Equipe 4: Kōritsu-tekina
-
-Cleiyton Alex Sandro de Oliveira
-Maycon Rebordão
-Wellington Mesquita Santos
-
-Equipe 5:  Lovelace
-
-Alice Alves Lima
-Josilene de Sousa Santos Fernandes
-Joyce Braga Silva de Jesus
-
-Equipe 6: PrintIF
-
-Mateus Oliveira de Deus
-Mateus Silva Perinazzo
-Nelio Augusto
-
-Equipe 7: cyberNERDcos
-
-Caio Savio de Lira
-Guilherme Rodrigues
-Victor Monteiro
-
-Equipe 8:  fSociety
-
-Geraldo Alves
-Matheus de Carvalho 
-
-&amp;nbsp;
-
-&amp;nbsp;</summary></entry><entry><title type="html">Disciplinas no Edmodo</title><link href="http://localhost:4000/2016/02/22/disciplinas-no-edmodo.html" rel="alternate" type="text/html" title="Disciplinas no Edmodo" /><published>2016-02-22T21:18:22+00:00</published><updated>2016-02-22T21:18:22+00:00</updated><id>http://localhost:4000/2016/02/22/disciplinas-no-edmodo</id><content type="html" xml:base="http://localhost:4000/2016/02/22/disciplinas-no-edmodo.html">&lt;p&gt;Prezados&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content></entry><entry><title type="html">Disciplinas no Edmodo</title><link href="https://dsnnunes.com.br/blog/disciplinas-no-edmodo/" rel="alternate" type="text/html" title="Disciplinas no Edmodo" /><published>2016-02-22T21:18:22+00:00</published><updated>2016-02-22T21:18:22+00:00</updated><id>https://dsnnunes.com.br/blog/disciplinas-no-edmodo</id><content type="html" xml:base="https://dsnnunes.com.br/blog/disciplinas-no-edmodo/">&lt;p&gt;Prezados&lt;/p&gt;
 &lt;p&gt;Criei as disciplinas no site Edmodo. Nele vocês poderão tirar dúvidas e ficar por dentro das notícias da disciplina.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.edmodo.com/?language=pt-br&quot;&gt;https://www.edmodo.com/?language=pt-br&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Para entrar no grupo, basta colocar que você é estudante e inserir o código da disciplina.&lt;/p&gt;
@@ -329,25 +197,10 @@ Matheus de Carvalho
 &lt;li&gt;Arquitetura de Computadores (PROEJA): syyegh&lt;/li&gt;
 &lt;li&gt;Sistemas Operacionais (PROEJA): spekgq&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content><summary type="html">Prezados
-Criei as disciplinas no site Edmodo. Nele vocês poderão tirar dúvidas e ficar por dentro das notícias da disciplina.
-https://www.edmodo.com/?language=pt-br
-Para entrar no grupo, basta colocar que você é estudante e inserir o código da disciplina.
-Seguem os códigos:
-
-Lógica Computacional (TADS): s8pik3
-Estruturas de Dados II (TADS):  9emsrt
-Tópicos Avançados II (TADS) - Programação Avançada: fy3jjv
-Arquitetura de Computadores (PROEJA): syyegh
-Sistemas Operacionais (PROEJA): spekgq
-
-&amp;nbsp;</summary></entry><entry><title type="html">TADS: Redes de Computadores -  Notas Disponíveis</title><link href="http://localhost:4000/2015/12/08/tads-redes-de-computadores-notas-disponiveis.html" rel="alternate" type="text/html" title="TADS: Redes de Computadores -  Notas Disponíveis" /><published>2015-12-08T08:36:23+00:00</published><updated>2015-12-08T08:36:23+00:00</updated><id>http://localhost:4000/2015/12/08/tads-redes-de-computadores-notas-disponiveis</id><content type="html" xml:base="http://localhost:4000/2015/12/08/tads-redes-de-computadores-notas-disponiveis.html">&lt;p&gt;Prezados. Estão disponíveis as notas finais da Disciplina de Redes de Computadores.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content></entry><entry><title type="html">TADS: Redes de Computadores -  Notas Disponíveis</title><link href="https://dsnnunes.com.br/blog/tads-redes-de-computadores-notas-disponiveis/" rel="alternate" type="text/html" title="TADS: Redes de Computadores -  Notas Disponíveis" /><published>2015-12-08T08:36:23+00:00</published><updated>2015-12-08T08:36:23+00:00</updated><id>https://dsnnunes.com.br/blog/tads-redes-de-computadores-notas-disponiveis</id><content type="html" xml:base="https://dsnnunes.com.br/blog/tads-redes-de-computadores-notas-disponiveis/">&lt;p&gt;Prezados. Estão disponíveis as notas finais da Disciplina de Redes de Computadores.&lt;/p&gt;
 &lt;p&gt;Qualquer objeção quanto à nota da correção do trabalho e da 3° Prova pode ser enviada por e-mail que marcaremos um horário para conversar.&lt;/p&gt;
-&lt;p&gt;Atenciosamente.&lt;/p&gt;</content><summary type="html">Prezados. Estão disponíveis as notas finais da Disciplina de Redes de Computadores.
-Qualquer objeção quanto à nota da correção do trabalho e da 3° Prova pode ser enviada por e-mail que marcaremos um horário para conversar.
-Atenciosamente.</summary></entry><entry><title type="html">TADS: Listas de Exercícios Disponíveis</title><link href="http://localhost:4000/2015/11/25/tads-listas-de-exercicios-disponiveis.html" rel="alternate" type="text/html" title="TADS: Listas de Exercícios Disponíveis" /><published>2015-11-25T12:47:31+00:00</published><updated>2015-11-25T12:47:31+00:00</updated><id>http://localhost:4000/2015/11/25/tads-listas-de-exercicios-disponiveis</id><content type="html" xml:base="http://localhost:4000/2015/11/25/tads-listas-de-exercicios-disponiveis.html">&lt;p&gt;Prezados, as listas V e VI da disciplina de Redes de Computadores estão disponíveis.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content><summary type="html">Prezados, as listas V e VI da disciplina de Redes de Computadores estão disponíveis.
-&amp;nbsp;</summary></entry><entry><title type="html">III Maratona de Programação: Equipes Confirmadas</title><link href="http://localhost:4000/maratona%20de%20programa%C3%A7%C3%A3o/2015/10/17/iii-maratona-de-programacao-equipes-confirmadas.html" rel="alternate" type="text/html" title="III Maratona de Programação: Equipes Confirmadas" /><published>2015-10-17T12:22:52+00:00</published><updated>2015-10-17T12:22:52+00:00</updated><id>http://localhost:4000/maratona%20de%20programa%C3%A7%C3%A3o/2015/10/17/iii-maratona-de-programacao-equipes-confirmadas</id><content type="html" xml:base="http://localhost:4000/maratona%20de%20programa%C3%A7%C3%A3o/2015/10/17/iii-maratona-de-programacao-equipes-confirmadas.html">&lt;p&gt;Equipe 1: &lt;strong&gt;The Bugs&lt;br /&gt;
+&lt;p&gt;Atenciosamente.&lt;/p&gt;</content></entry><entry><title type="html">TADS: Listas de Exercícios Disponíveis</title><link href="https://dsnnunes.com.br/blog/tads-listas-de-exercicios-disponiveis/" rel="alternate" type="text/html" title="TADS: Listas de Exercícios Disponíveis" /><published>2015-11-25T12:47:31+00:00</published><updated>2015-11-25T12:47:31+00:00</updated><id>https://dsnnunes.com.br/blog/tads-listas-de-exercicios-disponiveis</id><content type="html" xml:base="https://dsnnunes.com.br/blog/tads-listas-de-exercicios-disponiveis/">&lt;p&gt;Prezados, as listas V e VI da disciplina de Redes de Computadores estão disponíveis.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content></entry><entry><title type="html">III Maratona de Programação: Equipes Confirmadas</title><link href="https://dsnnunes.com.br/blog/maratona%20de%20programa%C3%A7%C3%A3o/iii-maratona-de-programacao-equipes-confirmadas/" rel="alternate" type="text/html" title="III Maratona de Programação: Equipes Confirmadas" /><published>2015-10-17T12:22:52+00:00</published><updated>2015-10-17T12:22:52+00:00</updated><id>https://dsnnunes.com.br/blog/maratona%20de%20programa%C3%A7%C3%A3o/iii-maratona-de-programacao-equipes-confirmadas</id><content type="html" xml:base="https://dsnnunes.com.br/blog/maratona%20de%20programa%C3%A7%C3%A3o/iii-maratona-de-programacao-equipes-confirmadas/">&lt;p&gt;Equipe 1: &lt;strong&gt;The Bugs&lt;br /&gt;
 &lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Samuel Caio Cardoso de Oliveira&lt;/li&gt;
@@ -377,34 +230,4 @@ Atenciosamente.</summary></entry><entry><title type="html">TADS: Listas de Exerc
 &lt;li&gt;&lt;span data-sheets-value=&quot;[null,2,&amp;quot;Matheus Wisniewski&amp;quot;]&quot; data-sheets-userformat=&quot;[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]&quot;&gt;Matheus Wisniewski&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span data-sheets-value=&quot;[null,2,&amp;quot;Gabriel Hamerski Costa da Luz&amp;quot;]&quot; data-sheets-userformat=&quot;[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]&quot;&gt;Gabriel Hamerski Costa da Luz&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;O prazo de inscrição é até dia 1° de novembro. Vagas limitadas sujeitas à capacidade do Laboratório de Informática.&lt;/p&gt;</content><summary type="html">Equipe 1: The Bugs
-
-
-Samuel Caio Cardoso de Oliveira
-Mateus Silva Perinazzo
-Mateus Oliveira de Deus
-
-Equipe 2: FULLSTACK OVERKILL
-
-Alex Sandro da Silva Magalhães Junior
-André Lucas Rodrigues da Silva
-Maryana Marinho da Silva Melo
-
-Equipe 3: É NOIS
-
-Gilberto Veras Rosa Junior
-Luis Felipe Araujo Pimenta
-Wellington Mesquita Santos
-
-Equipe 4: fSociety
-
-Geraldo Alves Pereira Junior
-Matheus de Carvalho Sobrinho
-
-Equipe 5: Seeders
-
-Jerônimo Hermano Neves Cunha
-Matheus Wisniewski
-Gabriel Hamerski Costa da Luz
-
-O prazo de inscrição é até dia 1° de novembro. Vagas limitadas sujeitas à capacidade do Laboratório de Informática.</summary></entry></feed>
+&lt;p&gt;O prazo de inscrição é até dia 1° de novembro. Vagas limitadas sujeitas à capacidade do Laboratório de Informática.&lt;/p&gt;</content></entry></feed>
