@@ -70,23 +70,23 @@ exclude:
 - vendor
 owner:
   name: Daniel Saad
-  avatar:
+  avatar: 
   email: daniel.nunes@ifb.edu.br
   disqus-shortname: http-www-dsnnunes-com-br
-  twitter:
-  facebook:
-  github:
-  stackexchange:
-  linkedin:
-  instagram:
-  flickr:
-  tumblr:
-  pinterest:
-  weibo:
+  twitter: 
+  facebook: 
+  github: 
+  stackexchange: 
+  linkedin: 
+  instagram: 
+  flickr: 
+  tumblr: 
+  pinterest: 
+  weibo: 
   google:
-    plus:
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+    plus: 
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
