@@ -16,7 +16,7 @@ Assuntos de Interesse:
 * Complexidade Computacional;
 
 
-Contato: daniel.saad.nunes [at] gmail.com
+Contato: {{site.email}}
 
 [Currículo Lattes](http://lattes.cnpq.br/1867062109453099)
 
