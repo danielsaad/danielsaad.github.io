@@ -16,7 +16,7 @@ Assuntos de Interesse:
 * Complexidade Computacional;
 
 
-Contato: {{site.email}}
+Contato: {{ site.owner.email }}
 
 [Currículo Lattes](http://lattes.cnpq.br/1867062109453099)
 
