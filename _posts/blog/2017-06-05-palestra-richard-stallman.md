@@ -1,6 +1,6 @@
 ---
 title: Palestra com Richard Stallman
-date: 2017-03-28 00:00:00 Z
+date: 2017-06-05 00:00:00 Z
 layout: post
 status: publish
 comments: true
