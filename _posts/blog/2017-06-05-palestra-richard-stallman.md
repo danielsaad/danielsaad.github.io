@@ -6,7 +6,7 @@ status: publish
 comments: true
 ---
 
-Prezados, o fundador do movimento de software livre, Richard Stallman, estará presente na Universidade de Brasília, em 19 de junho às 19:30h no Auditório do Departamento de Ciência da Computação para proferir uma palestra entitulada de:
+Prezados, o fundador do movimento de software livre, Richard Stallman, estará presente na Universidade de Brasília, em 19 de junho às 19:30h no Auditório do Departamento de Ciência da Computação para proferir uma palestra intitulada de:
 
 * Copyright and Community(+ Q & A)
 
@@ -17,4 +17,4 @@ or­ganização sindical e a política de educação,
 ciência e tecno­logia no brasil
 
 
-O evento é gratuido e para mais detalhes clique [aqui](http://www.cic.unb.br/stallman-2017/).
+O evento é gratuito e para mais detalhes clique [aqui](http://www.cic.unb.br/stallman-2017/).
