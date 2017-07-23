@@ -27,6 +27,6 @@ Contato: {{ site.owner.email }}
 ## _Alumni_
 
 * Matheus de Carvalho Sobrinho (TCC e IC)
-  * [Sistema Inteligente de Divulgação de Informações do IFG-Formosa](https://dsnnunes.com.br/SID)
+  * [Sistema Inteligente de Divulgação de Informações do IFG-Formosa](https://danielsaad.com/SID)
 * Cleiton Alex Sandro de Oliveira (IC)
 * Wellington Mesquisa Santos (IC)
