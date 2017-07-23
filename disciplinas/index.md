@@ -8,7 +8,7 @@ layout: page
 
 * Programação de Computadores I (CC)
 * Teoria da Computação (CC)
-* Segurança da Informação (CC)
+* Segurança em Computação (CC)
 * Administração de Sistemas Operacionais (SMC)
 
 # 1°/2017 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
