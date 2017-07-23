@@ -4,6 +4,13 @@ date: 2013-12-20 00:00:00 Z
 layout: page
 ---
 
+# 2°/2017 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
+
+* Programação de Computadores I (CC)
+* Teoria da Computação (CC)
+* Segurança da Informação (CC)
+* Administração de Sistemas Operacionais (SMC)
+
 # 1°/2017 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
 * Análise de Algoritmos (CC)
