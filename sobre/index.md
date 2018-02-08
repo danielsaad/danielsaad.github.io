@@ -30,3 +30,7 @@ Contato: {{ site.owner.email }}
   * [Sistema Inteligente de Divulgação de Informações do IFG-Formosa](https://danielsaad.com/SID)
 * Cleiton Alex Sandro de Oliveira (IC)
 * Wellington Mesquisa Santos (IC)
+
+## Links Externos
+
+* (Templates IFB)[https://github.com/danielsaad/templates-ifb]
