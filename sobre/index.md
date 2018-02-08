@@ -33,4 +33,4 @@ Contato: {{ site.owner.email }}
 
 ## Links Externos
 
-* (Templates IFB)[https://github.com/danielsaad/templates-ifb]
+* [Templates IFB](https://github.com/danielsaad/templates-ifb)
