@@ -4,18 +4,25 @@ date: 2013-12-20 00:00:00 Z
 layout: page
 ---
 
+# 1°/2018 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
+
+* Teoria da Computação (CC-ABI)
+* Estrutura de Dados e Algoritmos (CC-ABI)
+* Análise de Algoritmos (BCC)
+
+
 # 2°/2017 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
-* Programação de Computadores I (CC)
-* Teoria da Computação (CC)
-* Segurança em Computação (CC)
+* Programação de Computadores I (CC-ABI)
+* Teoria da Computação (CC-ABI)
+* Segurança em Computação (BCC)
 * Administração de Sistemas Operacionais (MSI)
 
 # 1°/2017 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
-* Análise de Algoritmos (CC)
-* Tópicos em Computação II (CC)
-* Estruturas de Dados e Algoritmos (CC)
+* Análise de Algoritmos (BCC)
+* Tópicos em Computação II (BCC)
+* Estruturas de Dados e Algoritmos (CC-ABI)
 
 # 2°/2016 - Instituto Federal de Educação, Ciência e Tecnologia de Goiás
 

@@ -20,11 +20,16 @@ author:
   last_name: ''
 ---
 
+# 2°/2017 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
+* Teoria da Computação (CC)
+* 
+
+
 # 1°/2017 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
-* Análise de Algoritmos (CC)
-* Tópicos em Computação II (CC)
-* Estruturas de Dados e Algoritmos (CC)
+* Análise de Algoritmos (BCC)
+* Tópicos em Computação II (BCC)
+* Estruturas de Dados e Algoritmos (CC-ABI)
 
 # 2°/2016 - Instituto Federal de Educação, Ciência e Tecnologia de Goiás
 
