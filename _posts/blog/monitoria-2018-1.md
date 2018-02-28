@@ -1,10 +1,14 @@
 ---
+<<<<<<< HEAD:_posts/blog/2018-02-28-monitoria-2018-1.md
 title: Monitoria 2018/1
 date: 2018-02-28 00:00:00 Z
 layout: post
 status: publish
 comments: true
 excerpt: "Processo seletivo de monitoria 2018/1. Disciplinas: Análise de Algoritmos, Estruturas de Dados e Algoritmos e Teoria da Computação."
+=======
+title: 2018 02 28 Monitoria 2018 1
+>>>>>>> d99ad9641ec8b12a2efe40ce31e62dd3dac821ac:_posts/blog/monitoria-2018-1.md
 ---
 
 Prezados, o _campus_ taguatinga está ofertando 30 vagas de monitoria remunerada nos diversos curos oferecidos pela instituição. Creio a monitoria é uma atividade que proporcia o aluno uma iniciação à docência e a consolidação de conceitos vistos anteriormente nas disciplinas.
