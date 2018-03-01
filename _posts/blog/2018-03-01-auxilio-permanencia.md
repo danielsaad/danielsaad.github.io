@@ -4,7 +4,7 @@ date: 2018-03-01 00:00:00 Z
 layout: post
 status: publish
 comments: true
-excerpt: 'Informações sobre auxílio permanência'
+excerpt: Informações sobre auxílio permanência
 ---
 
 Seguem as seguintes informações da CDAE sobre o auxílio permanência:
