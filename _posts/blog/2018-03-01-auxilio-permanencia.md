@@ -1,5 +1,5 @@
 ---
-title: 'Auxílio Permanência 2018/1'
+title: Auxílio Permanência 2018/1
 date: 2018-03-01 00:00:00 Z
 layout: post
 status: publish
