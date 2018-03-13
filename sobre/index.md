@@ -34,3 +34,4 @@ Contato: {{ site.owner.email }}
 ## Links Externos
 
 * [Templates IFB](https://github.com/danielsaad/templates-ifb)
+* [Docker Like Name Generator](https://danielsaad.com/docker-like-name-generator)
