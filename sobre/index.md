@@ -33,5 +33,5 @@ Contato: {{ site.owner.email }}
 
 ## Links Externos
 
-* [Templates IFB](https://github.com/danielsaad/templates-ifb)
+* [Modelos Acadêmicos do IFB](https://github.com/IFBmodels)
 * [Docker Like Name Generator](https://danielsaad.com/docker-like-name-generator)
