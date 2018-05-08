@@ -1,6 +1,5 @@
 ---
-title: "Mesa Redonda: como desenvolver abstração e a capacidade de 
-modelar problemas computacionalmente?"
+title: "Convite para Mesa Redonda: Semana de Ciência e Tecnologia"
 date: 2018-05-08 00:00:00 Z
 layout: post
 status: publish
