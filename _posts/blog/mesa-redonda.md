@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD:_posts/blog/2018-05-08-mesa-redonda.md
 title: "Convite para Mesa Redonda: Semana de Ciência e Tecnologia"
 date: 2018-05-08 00:00:00 Z
 layout: post
@@ -9,6 +10,9 @@ estudantes para pensar sobre questões de aprendizagem, sobre
 sucesso escolar e a elencar os problemas associados a dificuldade 
 do pensamento abstrato e discutir formas de lidar com esses 
 problemas." 
+=======
+title: 2018 05 08 Mesa Redonda
+>>>>>>> bb4039a70f0847c213fa0e865e3415b3f96ee91c:_posts/blog/mesa-redonda.md
 ---
 
 Prezados.
