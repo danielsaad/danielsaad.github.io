@@ -13,8 +13,8 @@ problemas."
 
 Prezados.
 
-Nesta quarta-feira das 9h às 11h na Semana de Ciência e Tecnologia 
-do *campus* IFB-Taguatinga eu e o prof. Dhiego Loyola ofereceremos 
+Nesta quarta-feira das 9h às 11h na **Semana de Ciência e Tecnologia** 
+do *campus* IFB-Taguatinga, eu e o prof. Dhiego Loyola ofereceremos 
 a mesa redonda "*Como desenvolver a abstração e a capacidade de 
 modelar problemas computacionalmente?*"  com objetivo de discutir e 
 elencar os problemas relacionados ao pensamento abstrato de modo a 
