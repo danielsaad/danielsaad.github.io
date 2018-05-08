@@ -31,7 +31,8 @@ concentrada nos professores proponentes, mas sim no que os alunos
 tem a dizer para que possamos caminhar juntos em prol de uma 
 solução (ou mais problemas).
 
-
+Para realizar a inscrição no evento, basta acessar o sistema de eventos
+do IFB no seguinte [link](http://eventos.ifb.edu.br/frontend/eventos/344)
 
 ## Mais informações
 
@@ -40,3 +41,4 @@ problemas compucionalmente?
 * Gênero: Mesa redona.
 * Horário: 9h às 11h.
 * Local: Auditório do *campus* Taguatinga.
+* Inscrições: [http://eventos.ifb.edu.br/frontend/eventos/344](http://eventos.ifb.edu.br/frontend/eventos/344)
