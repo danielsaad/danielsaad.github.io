@@ -1,15 +1,13 @@
 ---
-title: "Mesa Redonda: como desenvolver abstração e a capacidade de 
-modelar problemas computacionalmente?"
+title: 'Mesa Redonda: como desenvolver abstração e a capacidade de modelar problemas
+  computacionalmente?'
 date: 2018-05-08 00:00:00 Z
 layout: post
 status: publish
 comments: true
-excerpt: "Os professores Daniel Saad e Dhiego Loyola convidam os 
-estudantes para pensar sobre questões de aprendizagem, sobre 
-sucesso escolar e a elencar os problemas associados a dificuldade 
-do pensamento abstrato e discutir formas de lidar com esses 
-problemas." 
+excerpt: Os professores Daniel Saad e Dhiego Loyola convidam os estudantes para pensar
+  sobre questões de aprendizagem, sobre sucesso escolar e a elencar os problemas associados
+  a dificuldade do pensamento abstrato e discutir formas de lidar com esses problemas.
 ---
 
 Prezados.
