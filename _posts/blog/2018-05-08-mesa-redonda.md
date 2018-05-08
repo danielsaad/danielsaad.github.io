@@ -1,5 +1,5 @@
 ---
-title: "Convite para Mesa Redonda: Semana de Ciência e Tecnologia"
+title: Convite para Mesa Redonda: Semana de Ciência e Tecnologia
 date: 2018-05-08 00:00:00 Z
 layout: post
 status: publish
