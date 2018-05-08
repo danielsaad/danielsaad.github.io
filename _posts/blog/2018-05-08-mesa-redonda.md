@@ -12,16 +12,18 @@ excerpt: Os professores Daniel Saad e Dhiego Loyola convidam os estudantes para 
 Prezados.
 
 Nesta quarta-feira das 9h às 11h na **Semana de Ciência e Tecnologia** 
-do *campus* IFB-Taguatinga, eu e o prof. Dhiego Loyola ofereceremos 
+do *campus* IFB-Taguatinga, eu e o prof. Dhiego Loiola ofereceremos 
 a mesa redonda "*Como desenvolver a abstração e a capacidade de 
 modelar problemas computacionalmente?*"  com objetivo de discutir e 
 elencar os problemas relacionados ao pensamento abstrato de modo a 
 procurar soluções para estes problemas.
 
+
+
 Esta mesa redonda foi motivada pela dificuldade aparente dos alunos 
 quando submetidos a um problema que necessita de um raciocínio mais 
 abstrato e também pela dificuldade dos docentes de tentar passar 
-esta visão mais abstrata.
+esta visão mais abstrata de uma maneira simples o suficiente sem perda de precisão.
 
 Ressaltamos que esta mesa redonda difere um pouco do formato mais 
 tradicional pois ela tem um caráter mais informal e não ficará 
