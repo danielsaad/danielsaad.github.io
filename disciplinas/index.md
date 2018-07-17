@@ -4,6 +4,13 @@ date: 2013-12-20 00:00:00 Z
 layout: page
 ---
 
+# 2°/2018 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
+
+* Teoria da Computação (CC-ABI)
+* Estrutura de Dados e Algoritmos (CC-ABI)
+* Segurança em Computação (BCC)
+
+
 # 1°/2018 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
 * Teoria da Computação (CC-ABI)
