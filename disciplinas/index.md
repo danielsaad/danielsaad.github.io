@@ -9,7 +9,7 @@ layout: page
 * Teoria da Computação (CC-ABI)
 * Estrutura de Dados e Algoritmos (CC-ABI)
 * Segurança em Computação (BCC)
-* Introdução à Redes de Computadores
+* Introdução à Redes de Computadores (MSI)
 
 
 # 1°/2018 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
