@@ -4,6 +4,14 @@ date: 2013-12-20 00:00:00 Z
 layout: page
 ---
 
+# 1°/2019 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
+
+* Programação de Computadores I (CC-ABI)
+* Análise de Algoritmos (BCC)
+* Tópicos Especiais em Algoritmos (BCC)
+
+
+
 # 2°/2018 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
 * Teoria da Computação (CC-ABI)
