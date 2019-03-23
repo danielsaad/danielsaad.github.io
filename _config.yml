@@ -27,7 +27,6 @@ locale: pt_BR
 description: Página Pessoal
 search: true
 url: https://danielsaad.com
-# url: http://localhost:4000
 permalink: "/:categories/:title/"
 markdown: kramdown
 highlighter: rouge
