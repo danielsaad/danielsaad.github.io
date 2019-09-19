@@ -4,7 +4,7 @@ date: 2019-09-19 00:00:00 Z
 layout: post
 status: publish
 comments: true
-excerpt: 'Chamada para trabalhos do IFTechDay.'
+excerpt: Chamada para trabalhos do IFTechDay.
 ---
 
 ---
