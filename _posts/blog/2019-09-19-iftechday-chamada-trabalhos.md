@@ -1,6 +1,6 @@
 ---
 title: 'Chamada para Trabalhos: IFTechDay'
-date: 2019-06-04 00:00:00 Z
+date: 2019-09-19 00:00:00 Z
 layout: post
 status: publish
 comments: true
