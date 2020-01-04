@@ -4,9 +4,24 @@ date: 2013-12-20 00:00:00 Z
 layout: page
 ---
 
+
+# 1º/2020 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
+
+* Estruturas de Dados e Algoritmos (BCC/LC)
+* Análise de Algoritmos (BCC)
+* Tópicos Especiais em Algoritmos (BCC)
+
+
+# 2°/2019 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
+
+* Programação de Computadores I (BCC/LC)
+* Teoria da Computação (BCC/LC)
+* Administração de Sistemas Operacionais (TMSI)
+
+
 # 1°/2019 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
-* Programação de Computadores I (CC-ABI)
+* Programação de Computadores I (BCC/LC)
 * Análise de Algoritmos (BCC)
 * Tópicos Especiais em Algoritmos (BCC)
 
@@ -14,31 +29,31 @@ layout: page
 
 # 2°/2018 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
-* Teoria da Computação (CC-ABI)
-* Estrutura de Dados e Algoritmos (CC-ABI)
+* Teoria da Computação (BCC/LC)
+* Estrutura de Dados e Algoritmos (BCC/LC)
 * Segurança em Computação (BCC)
-* Introdução à Redes de Computadores (MSI)
+* Introdução à Redes de Computadores (TMSI)
 
 
 # 1°/2018 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
-* Teoria da Computação (CC-ABI)
-* Estrutura de Dados e Algoritmos (CC-ABI)
+* Teoria da Computação (BCC/LC)
+* Estrutura de Dados e Algoritmos (BCC/LC)
 * Análise de Algoritmos (BCC)
 
 
 # 2°/2017 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
-* Programação de Computadores I (CC-ABI)
-* Teoria da Computação (CC-ABI)
+* Programação de Computadores I (BCC/LC)
+* Teoria da Computação (BCC/LC)
 * Segurança em Computação (BCC)
-* Administração de Sistemas Operacionais (MSI)
+* Administração de Sistemas Operacionais (TMSI)
 
 # 1°/2017 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
 * Análise de Algoritmos (BCC)
 * Tópicos em Computação II (BCC)
-* Estruturas de Dados e Algoritmos (CC-ABI)
+* Estruturas de Dados e Algoritmos (BCC/LC)
 
 # 2°/2016 - Instituto Federal de Educação, Ciência e Tecnologia de Goiás
 
