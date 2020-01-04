@@ -4,7 +4,6 @@ date: 2013-12-20 00:00:00 Z
 layout: page
 ---
 
-
 # 1º/2020 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
 * Estruturas de Dados e Algoritmos (BCC/LC)
