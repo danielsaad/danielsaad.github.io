@@ -4,13 +4,24 @@ date: 2013-12-20 00:00:00 Z
 layout: page
 ---
 
+# 1°/2021 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
+
+* Análise de Algoritmos (BCC)
+* Algoritmos e Programação de Computadores (BCC/LC/LFI)
+* Algoritmos e Programação de Computadores (TAI)
+
+# 2º/2020 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
+
+* Estruturas de Dados e Algoritmos (BCC/LC)
+* Teoria da Computação (BCC/LC)
+* Programação de Computadores 1 (BCC/LC)
 
 # 1º/2020 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
 * Estruturas de Dados e Algoritmos (BCC/LC)
 * Análise de Algoritmos (BCC)
 * Tópicos Especiais em Algoritmos (BCC)
-
+* Segurança de Dados (TMSI)
 
 # 2°/2019 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
