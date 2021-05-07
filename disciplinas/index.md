@@ -6,9 +6,9 @@ layout: page
 
 # 1°/2021 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
-* Análise de Algoritmos (BCC)
-* Algoritmos e Programação de Computadores (BCC/LC/LFI)
-* Algoritmos e Programação de Computadores (TAI)
+* [Análise de Algoritmos (BCC)](https://danielsaad.com/analise-de-algoritmos)
+* [Algoritmos e Programação de Computadores (BCC/LC/LFI)](https://danielsaad.com/algoritmos-e-programacao-de-computadores)
+* [Algoritmos e Programação de Computadores (TAI)](https://danielsaad.com/algoritmos-e-programacao-de-computadores-tai)
 
 # 2º/2020 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
