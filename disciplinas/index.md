@@ -4,6 +4,12 @@ date: 2013-12-20 00:00:00 Z
 layout: page
 ---
 
+# 2°/2021 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
+
+* [Programação de Computadores 1 (BCC/LC)](https://danielsaad.com/programacao-de-computadores-1)
+* [Teoria da Computação (BCC/LC)](https://danielsaad.com/teoria-da-computacao)
+* [Tópicos Especiais em Algoritmos (BCC)](https://danielsaad.com/topicos-especiais-em-algoritmos)
+
 # 1°/2021 - Instituto Federal de Educação, Ciência e Tecnologia de Brasília
 
 * [Análise de Algoritmos (BCC)](https://danielsaad.com/analise-de-algoritmos)
