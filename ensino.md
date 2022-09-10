@@ -39,7 +39,7 @@ layout: default
 
 ## Ideias para Trabalhos de Conclusão de Curso
 
-- [Documento](/assets/propostas-tcc.pdf)
+- [Proposta](/assets/propostas-tcc.pdf)
 
 ## Projetos de Ensino
 
