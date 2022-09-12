@@ -8,7 +8,7 @@ layout: default
 ### Disciplinas 2022/2
 
 - Introdução à Programação Competitiva
-- Programação de Computadores 1 (ABI)
+- [Programação de Computadores 1 (ABI)](https://danielsaad.com/programacao-de-computadores-1)
 - Programação de Computadores 1 (TAI)
 - Teoria da Computação
 
