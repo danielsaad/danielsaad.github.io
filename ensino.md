@@ -14,7 +14,6 @@ layout: default
 
 ### Disciplinas Ministradas
 
-
 #### Superior
 
 - Algoritmos e Programação de Computadores
@@ -36,7 +35,6 @@ layout: default
 - Introdução às Redes de Computadores
 - Sistemas Operacionais
 - Ferramentas e Utilitários do Sistema 
-
 
 ## Ideias para Trabalhos de Conclusão de Curso
 
