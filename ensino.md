@@ -10,7 +10,7 @@ layout: default
 - Introdução à Programação Competitiva
 - [Programação de Computadores 1 (ABI)](https://danielsaad.com/programacao-de-computadores-1)
 - Programação de Computadores 1 (TAI)
-- Teoria da Computação
+- [Teoria da Computação](https://danielsaad.com/teoria-da-computacao)
 
 ### Disciplinas Ministradas
 
@@ -24,7 +24,8 @@ layout: default
 - Lógica Computacional
 - Segurança de Dados
 - Sistemas Operacionais
-- Teoria da Computação 
+- Programação de Computadores 1
+- Teoria da Computação
 - Tópicos Especiais em Algoritmos
 
 
