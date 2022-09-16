@@ -7,7 +7,7 @@ layout: default
 
 ### Disciplinas 2022/2
 
-- Introdução à Programação Competitiva
+- [Introdução à Programação Competitiva](https://danielsaad.com/introducao-a-programacao-competitiva)
 - [Programação de Computadores 1 (ABI)](https://danielsaad.com/programacao-de-computadores-1)
 - [Programação de Computadores 1 (TAI)](https://danielsaad.com/programacao-de-computadores-1-tai/)
 - [Teoria da Computação](https://danielsaad.com/teoria-da-computacao)
