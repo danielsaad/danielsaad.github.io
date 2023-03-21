@@ -11,7 +11,6 @@ layout: default
 - [Análise de Algoritmos](https://danielsaad.com/analise-de-algoritmos)
 - [Compiladores](https://danielsaad.com/compiladores)
 - [Estrutura de Dados e Algoritmos](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
-- [Compiladores](https://danielsaad.com/compiladores)
 
 ### Disciplinas Ministradas
 
