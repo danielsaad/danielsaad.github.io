@@ -5,12 +5,13 @@ layout: default
 ## Ensino
 
 
-### Disciplinas 2022/2
+### Disciplinas 2023/1
 
-- [Introdução à Programação Competitiva](https://danielsaad.com/introducao-a-programacao-competitiva)
-- [Programação de Computadores 1 (ABI)](https://danielsaad.com/programacao-de-computadores-1)
-- [Programação de Computadores 1 (TAI)](https://danielsaad.com/programacao-de-computadores-1-tai/)
-- [Teoria da Computação](https://danielsaad.com/teoria-da-computacao)
+- [Algoritmos e Programação de Computadores (TAI)](https://danielsaad.com/algoritmos-e-programacao-de-computadores)
+- [Análise de Algoritmos](https://danielsaad.com/analise-de-algoritmos)
+- [Compiladores](https://danielsaad.com/compiladores)
+- [Estrutura de Dados e Algoritmos](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
+- [Compiladores](https://danielsaad.com/compiladores)
 
 ### Disciplinas Ministradas
 
@@ -18,6 +19,7 @@ layout: default
 
 - Algoritmos e Programação de Computadores
 - Análise de Algoritmos
+- Compiladores
 - Estruturas de Dados e Algoritmos
 - Introdução à Programação Competitiva
 - Lógica Computacional
@@ -25,7 +27,6 @@ layout: default
 - Sistemas Operacionais
 - Programação de Computadores 1
 - Teoria da Computação
-- Tópicos Especiais em Algoritmos
 
 
 #### Técnico
@@ -34,11 +35,11 @@ layout: default
 - Arquitetura de Computadores
 - Introdução às Redes de Computadores
 - Sistemas Operacionais
-- Ferramentas e Utilitários do Sistema 
+- Ferramentas e Utilitários do Sistema
 
 ## Ideias para Trabalhos de Conclusão de Curso
 
-- [Proposta](/assets/propostas-tcc.pdf)
+- [Proposta](/assets/propostas.pdf)
 
 ## Projetos de Ensino
 

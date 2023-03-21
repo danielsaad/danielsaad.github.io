@@ -7,3 +7,11 @@ Gemfile.lock
 *.gem
 .jekyll-cache
 rvm-install
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz

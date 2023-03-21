@@ -1,0 +1,110 @@
+\documentclass{article}
+\usepackage{fullpage}
+\usepackage[utf8]{inputenc}
+\usepackage[brazilian]{babel}
+\usepackage{algorithm2e}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{bibentry}
+\usepackage{url}
+\usepackage{hyperref}
+
+\author{Prof. Daniel Saad Nogueira Nunes}
+\title{Ideias de Trabalhos de Conclusão de Curso}
+\date{}
+
+
+\begin{document}
+
+
+\maketitle
+\nobibliography{bibliografia.bib}
+\bibliographystyle{plainnat}
+
+
+\section*{Construção paralela de $K^2$-trees utilizando GPUs}
+
+As $K^2$-trees são estruturas de dados compactas próprias para representação de grafos \textit{WEB}, isto é, grafos em que os vértices representam páginas \textit{WEB} enquanto as arestas de um vértice para outro indicam que existe um \textit{link} entre uma página e a outra.
+
+Neste trabalho é proposta uma construção da estrutura de dados utilizando a plataforma CUDA de programação paralela em placa de vídeos . Esta implementação paralela deverá ser comparada com implementações sequenciais e paralelas existentes.
+
+\subsection*{Referências}
+
+\begin{itemize}
+	\item \bibentry{site-nvidia-cuda}
+	\item \bibentry{DBLP:conf/spire/BrisaboaLN09}
+\end{itemize}
+
+\section*{Comparação de ferramentas de sandboxing em sistemas GNU/Linux}
+
+Sandboxing se refere ao isolamento de programas com objetivo de prevenir corrupção do espaço de usuário ou kernel e vulnerabilidades. Diversos mecanismos do sistema GNU/Linux podem ser utilizadas para este propósito, tais como: 
+\begin{itemize}
+	\item Firejail;
+	\item Ferramentas de virtualização;
+	\item Apparmor;
+	\item Seccomp;
+	\item \ldots
+\end{itemize}
+
+
+
+O objetivo do trabalho é comparar essas ferramentas de acordo com vários critérios relevantes para a segurança de sistemas operacionais.
+
+\subsection*{Referências}
+
+\begin{itemize}
+	\item \bibentry{DBLP:conf/sacmat/DunlapER22}
+	\item \bibentry{DBLP:conf/secrypt/BrodschelmG22}
+\end{itemize}
+
+\section*{Criação de uma sistema para correção de exercícios de programação}
+
+Este trabalho visa a criação de um sistema para correção de trabalhos de programação, possibilitando que o aluno obtenha feedback instantâneo durante a execução dos exercícios. Este sistema também poderá dar suporte à atividades avaliativas de programação, facilitando a correção dos códigos-fonte pelo prof. da disciplina. O sistema {\tt SQTPM} pode ser usado como base e estendido.
+
+\subsection*{Referências}
+
+
+\begin{itemize}
+	\item \bibentry{sqtpm}
+\end{itemize}
+
+\section*{Aplicação de algoritmos bioinspirados no problema {\tt BIN-PACKING}}
+
+O problema {\tt BIN-PACKING} é sabidamente um problema $\mathcal{N\!P}$-difícil. Ele consiste em, dado uma coleção de $n$ itens com pesos $W=(w_1,\ldots,w_n)$ e uma capacidade de pacote $C$, determinar o número mínimo de pacotes que podem empacotar os itens, sem que o somatório dos pesos dos itens inseridos em capa pacote não exceda $C$. Uma forma de resolver este problema em tempo viável com uma qualidade de solução satisfatória é utilizar metaheurísticas bioinspiradas. Este problema visa a aplicação destas metaheurísticas e comparação com algoritmos aproximado.
+
+\subsection*{Referências}
+
+\begin{itemize}
+	\item \bibentry{man1996approximation}
+	\item \bibentry{munien2021metaheuristic}
+\end{itemize}
+
+
+\section*{Elaboração de roteiros de computação desplugada}
+
+A computação desplugada serve como mecanismo para ensino da computação e do pensamento computacional.Diversos roteiros disponíveis contemplam os mais variados assuntos acerca da Ciência da Computação, mas é possível contribuir com novos roteiros didáticos. Este trabalho propõe a criação de roteiros didáticos para aplicação da computação desplugada nas escolas.
+
+\subsection*{Referências}
+
+\begin{itemize}
+	\item \bibentry{csunplugged}
+\end{itemize}
+
+
+\section*{Criação de uma sistema para correção de exercícios de programação}
+
+Este trabalho visa a criação de um sistema para correção de trabalhos de programação, possibilitando que o aluno obtenha feedback instantâneo durante a execução dos exercícios. Este sistema também poderá dar suporte à atividades avaliativas de programação, facilitando a correção dos códigos-fonte pelo prof. da disciplina.
+
+\subsection*{Referências}
+
+\begin{itemize}
+	\item \bibentry{sqtpm}
+\end{itemize}
+
+\section*{Criação de um sistema de consulta de exercícios de programação}
+
+Devido ao alto volume de exercícios de programação elaborados para os eventos de programação competitiva no DF, um sistema que classificasse esses problemas de acordo com categorias e permitisse consulta seria interessante para ajudar na capacitação desses estudantes para os eventos supracitados.
+
+
+\end{document}
