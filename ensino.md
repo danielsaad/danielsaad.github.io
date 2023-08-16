@@ -10,6 +10,7 @@ layout: default
 - [Estrutura de Dados e Algoritmos](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
 - [Teoria da Computação](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
 - [Programação de Computadores 1](https://danielsaad.com/programacao-de-computadores-1)
+
 ### Disciplinas Ministradas
 
 #### Superior
