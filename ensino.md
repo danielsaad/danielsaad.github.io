@@ -2,18 +2,18 @@
 layout: default
 ---
 
-## Ensino
+# Ensino
 
 
-### Disciplinas 2023/1
+## Disciplinas 2023/1
 
 - [Estrutura de Dados e Algoritmos](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
 - [Teoria da Computação](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
 - [Programação de Computadores 1](https://danielsaad.com/programacao-de-computadores-1)
 
-### Disciplinas Ministradas
+## Disciplinas Ministradas
 
-#### Superior
+### Superior
 
 - Algoritmos e Programação de Computadores
 - Análise de Algoritmos
@@ -27,7 +27,7 @@ layout: default
 - Teoria da Computação
 
 
-#### Técnico
+### Técnico
 
 - Administração de Sistemas Operacionais
 - Arquitetura de Computadores
