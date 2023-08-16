@@ -7,7 +7,8 @@ layout: default
 Áreas de interesse:
 
 - Estruturas de dados compactas
-- Otimização combinatória e metaheurísticas
+- Compressão e indexação de textos
+- Otimização combinatória e meta-heurísticas
 - Biologia computacional
 - Modelos computacionais alternativos para tratamento de problemas difíceis
 

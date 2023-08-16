@@ -7,11 +7,9 @@ layout: default
 
 ### Disciplinas 2023/1
 
-- [Algoritmos e Programação de Computadores (TAI)](https://danielsaad.com/algoritmos-e-programacao-de-computadores)
-- [Análise de Algoritmos](https://danielsaad.com/analise-de-algoritmos)
-- [Compiladores](https://danielsaad.com/compiladores)
 - [Estrutura de Dados e Algoritmos](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
-
+- [Teoria da Computação](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
+- [Programação de Computadores 1](https://danielsaad.com/programacao-de-computadores-1)
 ### Disciplinas Ministradas
 
 #### Superior
@@ -19,7 +17,7 @@ layout: default
 - Algoritmos e Programação de Computadores
 - Análise de Algoritmos
 - Compiladores
-- Estruturas de Dados e Algoritmos
+- Estrutura de Dados e Algoritmos
 - Introdução à Programação Competitiva
 - Lógica Computacional
 - Segurança de Dados
@@ -47,7 +45,7 @@ layout: default
 #### Legenda
 
 - ABI: área básica de ingresso do curso superior em Computação
-- BCC: bacharelado em ciência da computação
-- LC: licenciatura em computação
-- LFI: licenciatura em física
-- TAI: tecnologia em automação industrial
+- BCC: bacharelado em Ciência da Computação
+- LC: Licenciatura em Computação
+- LFI: Licenciatura em Física
+- TAI: Tecnologia em Automação Industrial
