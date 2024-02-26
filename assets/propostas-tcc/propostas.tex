@@ -14,45 +14,80 @@
 \date{}
 
 
+\newcommand*{\nsection}[1]{
+    \section*{#1}
+    \addcontentsline{toc}{section}{#1}
+}
+
+
+\newcommand{\ds}{\texttt{DS-Contest-Tools}\xspace}
+\newcommand{\polygon}{\texttt{Polygon}\xspace}
+\newcommand{\codeforces}{\texttt{Codeforces}\xspace}
+\newcommand{\sqtpm}{\texttt{SQTPM}\xspace}
+\newcommand{\boca}{\texttt{BOCA}\xspace}
+\newcommand{\pip}{\texttt{PIP}\xspace}
+\newcommand{\cdmoj}{\texttt{CD-MOJ}\xspace}
 \begin{document}
 \maketitle
-
-\nobibliography{bibliografia.bib}
+\setcounter{tocdepth}{1}
+\setcounter{secnumdepth}{1}
+\tableofcontents
+\nobibliography{bibliografia.bib}	
 \bibliographystyle{plainnat}
 
-\section*{Adequação dos modelos \LaTeX{} para escrita de trabalhos de conclusão de curso}
+% \nsection{Adequação dos modelos \LaTeX{} para escrita de trabalhos de conclusão de curso}
 
-Os modelos \LaTeX{} para escrita de conclusão de curso possuem uma série de problemas em relação as normas descritas no \href{https://normaliza.ifb.edu.br/doku.php}{site do IFB} e a norma da ABNT. A adequação desses modelos deve ser realizada com respeito à essas normas.
-
-
+% Os modelos \LaTeX{} para escrita de conclusão de curso possuem uma série de problemas em relação as normas descritas no \href{https://normaliza.ifb.edu.br/doku.php}{site do IFB} e a norma da ABNT. A adequação desses modelos deve ser realizada com respeito à essas normas.
 
 
-\subsection*{Referências}
+\nsection{Evolução da ferramenta de formatação de problemas DS ContestTools}
+
+Uma ferramenta de formatação de problemas para juízes eletrônicos possibilita ao autor do problema escrever e formatar o enunciado do problema; gerar os casos de teste; validar os casos de teste; testar as soluções esperadas;  gerar o pacote para o juiz eletrônico escolhido; além de outras funcionalidades.
+
+A ferramenta de formatação de problemas  inicialmente foi proposta para formatar problemas computacionais para a plataforma de formatação de competições de programação \polygon, do \codeforces. Com o tempo ela foi sendo aprimorada, possibilitando vários recursos como:
 
 \begin{itemize}
-	\item \bibentry{site-normaliza}
-	\item \bibentry{silva2021normalizaccao}
+	\item Conversão para os sistemas \sqtpm e \boca.
+	\item Produção de um relatório gráfico dos tempos de execução e memória utilizada pelas soluções esperadas.
+	\item Utilização, através da ferramenta, da API do \polygon para envio de problemas ao \codeforces, automatizando o processo de formatação de problemas nessa plataforma.
+	\item Documentação em site próprio.
 \end{itemize}
 
-\section*{Estudo do problema de alocação de horários nos cursos de computação do IFB-Taguatinga}
+Apesar de possuir diversas funcionalidades, ainda há margem para melhorias, como:
+
+\begin{itemize}
+	\item Disponibilização da ferramenta no repositório \pip da linguagem de programação Python.
+	\item Conversão dos pacotes do problema para a plataforma \cdmoj.
+	\item Customização do formato do arquivo PDF gerado por cada problema a depender do tipo de evento ao qual o problema foi pensado.
+	\item Entre outras.
+\end{itemize}
+
+\subsection{Referências}
+
+\begin{itemize}
+	\item \bibentry{github-ds-contest-tools}
+	\item \bibentry{site-ds-contest-tools}
+\end{itemize}
+
+\nsection{Estudo do problema de alocação de horários nos cursos de computação do IFB-Taguatinga}
 
 O problema de alocação de horários consiste em determinar os horários das disciplinas dos cursos de computação de modo a minimizar os conflitos de horários em relação aos estudantes e outras disciplinas. Este problema não possui estudos do ponto de vista computacional, e sua modelagem e resolução pode ajudar na construção de um horário que cause menos problemas. A investigação do problema em relação à sua classe de complexidade computacional também é interessante. 
 
 
-\section*{Construção paralela de $K^2$-trees utilizando GPUs}
+\nsection{Construção paralela de $K^2$-trees utilizando GPUs}
 
 As $K^2$-trees são estruturas de dados compactas próprias para representação de grafos \textit{WEB}, isto é, grafos em que os vértices representam páginas \textit{WEB} enquanto as arestas de um vértice para outro indicam que existe um \textit{link} entre uma página e a outra.
 
 Neste trabalho é proposta uma construção da estrutura de dados utilizando a plataforma CUDA de programação paralela em placa de vídeos . Esta implementação paralela deverá ser comparada com implementações sequenciais e paralelas existentes.
 
-\subsection*{Referências}
+\subsection{Referências}
 
 \begin{itemize}
 	\item \bibentry{site-nvidia-cuda}
 	\item \bibentry{DBLP:conf/spire/BrisaboaLN09}
 \end{itemize}
 
-\section*{Comparação de ferramentas de sandboxing em sistemas GNU/Linux}
+\nsection{Comparação de ferramentas de sandboxing em sistemas GNU/Linux}
 
 Sandboxing se refere ao isolamento de programas com objetivo de prevenir corrupção do espaço de usuário ou kernel e vulnerabilidades. Diversos mecanismos do sistema GNU/Linux podem ser utilizadas para este propósito, tais como: 
 \begin{itemize}
@@ -67,29 +102,29 @@ Sandboxing se refere ao isolamento de programas com objetivo de prevenir corrup�
 
 O objetivo do trabalho é comparar essas ferramentas de acordo com vários critérios relevantes para a segurança de sistemas operacionais.
 
-\subsection*{Referências}
+\subsection{Referências}
 
 \begin{itemize}
 	\item \bibentry{DBLP:conf/sacmat/DunlapER22}
 	\item \bibentry{DBLP:conf/secrypt/BrodschelmG22}
 \end{itemize}
 
-\section*{Criação de uma sistema para correção de exercícios de programação}
+\nsection{Criação de uma sistema para correção de exercícios de programação}
 
 Este trabalho visa a criação de um sistema para correção de trabalhos de programação, possibilitando que o aluno obtenha feedback instantâneo durante a execução dos exercícios. Este sistema também poderá dar suporte à atividades avaliativas de programação, facilitando a correção dos códigos-fonte pelo prof. da disciplina. O sistema {\tt SQTPM} pode ser usado como base e estendido.
 
-\subsection*{Referências}
+\subsection{Referências}
 
 
 \begin{itemize}
 	\item \bibentry{sqtpm}
 \end{itemize}
 
-\section*{Aplicação de algoritmos bioinspirados no problema {\tt BIN-PACKING}}
+\nsection{Aplicação de algoritmos bioinspirados no problema {\tt BIN-PACKING}}
 
 O problema {\tt BIN-PACKING} é sabidamente um problema $\mathcal{N\!P}$-difícil. Ele consiste em, dado uma coleção de $n$ itens com pesos $W=(w_1,\ldots,w_n)$ e uma capacidade de pacote $C$, determinar o número mínimo de pacotes que podem empacotar os itens, sem que o somatório dos pesos dos itens inseridos em capa pacote não exceda $C$. Uma forma de resolver este problema em tempo viável com uma qualidade de solução satisfatória é utilizar metaheurísticas bioinspiradas. Este problema visa a aplicação destas metaheurísticas e comparação com algoritmos aproximado.
 
-\subsection*{Referências}
+\subsection{Referências}
 
 \begin{itemize}
 	\item \bibentry{man1996approximation}
@@ -97,22 +132,22 @@ O problema {\tt BIN-PACKING} é sabidamente um problema $\mathcal{N\!P}$-difíci
 \end{itemize}
 
 
-\section*{Elaboração de roteiros de computação desplugada}
+\nsection{Elaboração de roteiros de computação desplugada}
 
 A computação desplugada serve como mecanismo para ensino da computação e do pensamento computacional.Diversos roteiros disponíveis contemplam os mais variados assuntos acerca da Ciência da Computação, mas é possível contribuir com novos roteiros didáticos. Este trabalho propõe a criação de roteiros didáticos para aplicação da computação desplugada nas escolas.
 
-\subsection*{Referências}
+\subsection{Referências}
 
 \begin{itemize}
 	\item \bibentry{csunplugged}
 \end{itemize}
 
 
-\section*{Criação de um sistema de consulta de exercícios de programação}
+\nsection{Criação de um sistema de consulta de exercícios de programação}
 
 Devido ao alto volume de exercícios de programação elaborados para os eventos de programação competitiva no DF, um sistema que classificasse esses problemas de acordo com categorias e permitisse consulta seria interessante para ajudar na capacitação desses estudantes para os eventos supracitados.
 
-\subsection*{Referências}
+\subsection{Referências}
 
 \begin{itemize}
 	\item \bibentry{site-maratona-ifb}
