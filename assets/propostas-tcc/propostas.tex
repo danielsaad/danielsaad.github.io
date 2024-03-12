@@ -14,8 +14,8 @@
 \date{}
 
 
-\newcommand*{\nsection}[1]{
-    \section{#1}
+\newcommand*{\nsubsection}[1]{
+    \subsection{#1}
 }
 
 
@@ -28,18 +28,87 @@
 \newcommand{\cdmoj}{\texttt{CD-MOJ}\xspace}
 \begin{document}
 \maketitle
-\setcounter{tocdepth}{1}
-\setcounter{secnumdepth}{1}
+\setcounter{tocdepth}{2}
+\setcounter{secnumdepth}{2}
 \tableofcontents
 \nobibliography{bibliografia.bib}	
 \bibliographystyle{plainnat}
 
-% \nsection{Adequação dos modelos \LaTeX{} para escrita de trabalhos de conclusão de curso}
+% \nsubsection{Adequação dos modelos \LaTeX{} para escrita de trabalhos de conclusão de curso}
 
 % Os modelos \LaTeX{} para escrita de conclusão de curso possuem uma série de problemas em relação as normas descritas no \href{https://normaliza.ifb.edu.br/doku.php}{site do IFB} e a norma da ABNT. A adequação desses modelos deve ser realizada com respeito à essas normas.
 
+\section{Ideias para TCC}
 
-\nsection{Evolução da ferramenta de formatação de problemas DS ContestTools}
+
+\nsubsection{Estudo do problema de alocação de horários nos cursos de computação do IFB-Taguatinga}
+
+O problema de alocação de horários consiste em determinar os horários das disciplinas dos cursos de computação de modo a minimizar os conflitos de horários em relação aos estudantes e outras disciplinas. Este problema não possui estudos do ponto de vista computacional, e sua modelagem e resolução pode ajudar na construção de um horário que cause menos problemas. A investigação do problema em relação à sua classe de complexidade computacional também é interessante. 
+
+\subsubsection*{Referências}
+
+
+\begin{itemize}
+	\item \bibentry{hillier2013introduccao}
+\end{itemize}
+
+
+\nsubsection{Criação de uma sistema para correção de exercícios de programação}
+
+Este trabalho visa a criação de um sistema para correção de trabalhos de programação, possibilitando que o aluno obtenha feedback instantâneo durante a execução dos exercícios. Este sistema também poderá dar suporte à atividades avaliativas de programação, facilitando a correção dos códigos-fonte pelo prof. da disciplina. O sistema {\tt SQTPM} pode ser usado como base e estendido.
+
+\subsubsection*{Referências}
+
+
+\begin{itemize}
+	\item \bibentry{sqtpm}
+\end{itemize}
+
+
+
+\nsubsection{Elaboração de roteiros de computação desplugada}
+
+A computação desplugada serve como mecanismo para ensino da computação e do pensamento computacional.Diversos roteiros disponíveis contemplam os mais variados assuntos acerca da Ciência da Computação, mas é possível contribuir com novos roteiros didáticos. Este trabalho propõe a criação de roteiros didáticos para aplicação da computação desplugada nas escolas.
+
+\subsubsection*{Referências}
+
+\begin{itemize}
+	\item \bibentry{csunplugged}
+\end{itemize}
+
+
+\subsubsection*{Referências}
+
+
+
+\section{Orientações em andamento}
+
+
+
+\nsubsection{Criação de um sistema de consulta de exercícios de programação}
+
+\begin{itemize}
+	\item Aluno: Fábio Henrique Lapa
+\end{itemize}
+
+Devido ao alto volume de exercícios de programação elaborados para os eventos de programação competitiva no DF, um sistema que classificasse esses problemas de acordo com categorias e permitisse consulta seria interessante para ajudar na capacitação desses estudantes para os eventos supracitados.
+
+
+
+\subsubsection*{Referências}
+
+\begin{itemize}
+	\item \bibentry{site-maratona-ifb}
+\end{itemize}
+
+
+\nsubsection{Evolução da ferramenta de formatação de problemas DS ContestTools}
+
+
+\begin{itemize}
+	\item Aluno: Leonam Knupp
+\end{itemize}
+
 
 Uma ferramenta de formatação de problemas para juízes eletrônicos possibilita ao autor do problema escrever e formatar o enunciado do problema; gerar os casos de teste; validar os casos de teste; testar as soluções esperadas;  gerar o pacote para o juiz eletrônico escolhido; além de outras funcionalidades.
 
@@ -61,33 +130,53 @@ Apesar de possuir diversas funcionalidades, ainda há margem para melhorias, com
 	\item Entre outras.
 \end{itemize}
 
-\subsection{Referências}
+
+\subsubsection*{Referências}
 
 \begin{itemize}
 	\item \bibentry{github-ds-contest-tools}
 	\item \bibentry{site-ds-contest-tools}
 \end{itemize}
 
-\nsection{Estudo do problema de alocação de horários nos cursos de computação do IFB-Taguatinga}
+\nsubsection{Aplicação de algoritmos bioinspirados no problema {\tt BIN-PACKING}}
 
-O problema de alocação de horários consiste em determinar os horários das disciplinas dos cursos de computação de modo a minimizar os conflitos de horários em relação aos estudantes e outras disciplinas. Este problema não possui estudos do ponto de vista computacional, e sua modelagem e resolução pode ajudar na construção de um horário que cause menos problemas. A investigação do problema em relação à sua classe de complexidade computacional também é interessante. 
+\begin{itemize}
+	\item Aluno: Caio Padilha Aguiar
+\end{itemize}
 
 
-\nsection{Construção paralela de $K^2$-trees utilizando GPUs}
+O problema {\tt BIN-PACKING} é sabidamente um problema $\mathcal{N\!P}$-difícil. Ele consiste em, dado uma coleção de $n$ itens com pesos $W=(w_1,\ldots,w_n)$ e uma capacidade de pacote $C$, determinar o número mínimo de pacotes que podem empacotar os itens, sem que o somatório dos pesos dos itens inseridos em capa pacote não exceda $C$. Uma forma de resolver este problema em tempo viável com uma qualidade de solução satisfatória é utilizar metaheurísticas bioinspiradas. Este problema visa a aplicação destas metaheurísticas e comparação com algoritmos aproximado.
+
+
+\subsubsection*{Referências}
+
+\begin{itemize}
+	\item \bibentry{man1996approximation}
+	\item \bibentry{munien2021metaheuristic}
+\end{itemize}
+
+\nsubsection{Construção paralela de $K^2$-trees utilizando GPUs}
+
+\begin{itemize}
+	\item Aluno: Rafael de Paula Filgueiras
+\end{itemize}
 
 As $K^2$-trees são estruturas de dados compactas próprias para representação de grafos \textit{WEB}, isto é, grafos em que os vértices representam páginas \textit{WEB} enquanto as arestas de um vértice para outro indicam que existe um \textit{link} entre uma página e a outra.
 
 Neste trabalho é proposta uma construção da estrutura de dados utilizando a plataforma CUDA de programação paralela em placa de vídeos . Esta implementação paralela deverá ser comparada com implementações sequenciais e paralelas existentes.
 
-\subsection{Referências}
+\subsubsection*{Referências}
 
 \begin{itemize}
 	\item \bibentry{site-nvidia-cuda}
 	\item \bibentry{DBLP:conf/spire/BrisaboaLN09}
 \end{itemize}
 
-\nsection{Comparação de ferramentas de sandboxing em sistemas GNU/Linux}
+\nsubsection{Comparação de ferramentas de sandboxing em sistemas GNU/Linux}
 
+\begin{itemize}
+	\item Alunos: Ellian Aragão e João Rezende
+\end{itemize}
 Sandboxing se refere ao isolamento de programas com objetivo de prevenir corrupção do espaço de usuário ou kernel e vulnerabilidades. Diversos mecanismos do sistema GNU/Linux podem ser utilizadas para este propósito, tais como: 
 \begin{itemize}
 	\item Firejail;
@@ -101,56 +190,74 @@ Sandboxing se refere ao isolamento de programas com objetivo de prevenir corrup�
 
 O objetivo do trabalho é comparar essas ferramentas de acordo com vários critérios relevantes para a segurança de sistemas operacionais.
 
-\subsection{Referências}
+\nsubsection{Aplicação de técnicas de SQL injection e suas contramedidas: um estudo de caso}
 
 \begin{itemize}
-	\item \bibentry{DBLP:conf/sacmat/DunlapER22}
-	\item \bibentry{DBLP:conf/secrypt/BrodschelmG22}
-\end{itemize}
-
-\nsection{Criação de uma sistema para correção de exercícios de programação}
-
-Este trabalho visa a criação de um sistema para correção de trabalhos de programação, possibilitando que o aluno obtenha feedback instantâneo durante a execução dos exercícios. Este sistema também poderá dar suporte à atividades avaliativas de programação, facilitando a correção dos códigos-fonte pelo prof. da disciplina. O sistema {\tt SQTPM} pode ser usado como base e estendido.
-
-\subsection{Referências}
-
-
-\begin{itemize}
-	\item \bibentry{sqtpm}
-\end{itemize}
-
-\nsection{Aplicação de algoritmos bioinspirados no problema {\tt BIN-PACKING}}
-
-O problema {\tt BIN-PACKING} é sabidamente um problema $\mathcal{N\!P}$-difícil. Ele consiste em, dado uma coleção de $n$ itens com pesos $W=(w_1,\ldots,w_n)$ e uma capacidade de pacote $C$, determinar o número mínimo de pacotes que podem empacotar os itens, sem que o somatório dos pesos dos itens inseridos em capa pacote não exceda $C$. Uma forma de resolver este problema em tempo viável com uma qualidade de solução satisfatória é utilizar metaheurísticas bioinspiradas. Este problema visa a aplicação destas metaheurísticas e comparação com algoritmos aproximado.
-
-\subsection{Referências}
-
-\begin{itemize}
-	\item \bibentry{man1996approximation}
-	\item \bibentry{munien2021metaheuristic}
+	\item Alunos: Emanuelly Parreira da Silva e Lucas Bonfim Fernandes
 \end{itemize}
 
 
-\nsection{Elaboração de roteiros de computação desplugada}
+Este trabalho consiste no estudo de caso sobre as técnicas de SQL injection {\it inband} e contramedidas para evitá-las. 
 
-A computação desplugada serve como mecanismo para ensino da computação e do pensamento computacional.Diversos roteiros disponíveis contemplam os mais variados assuntos acerca da Ciência da Computação, mas é possível contribuir com novos roteiros didáticos. Este trabalho propõe a criação de roteiros didáticos para aplicação da computação desplugada nas escolas.
 
-\subsection{Referências}
+
+\subsubsection*{Referências}
+\begin{itemize}
+	\item \bibentry{alwan2017detection}	
+	\item \bibentry{marashdeh2021survey}
+\end{itemize}
+
+\nsubsection{Análise comparativa dos provedores de computação em nuvem sob a ótica de virtualização e segurança}
 
 \begin{itemize}
-	\item \bibentry{csunplugged}
+	\item Aluno: Matheus Fernandes Bezerra
 \end{itemize}
 
 
-\nsection{Criação de um sistema de consulta de exercícios de programação}
+Este trabalho visa fornecer uma análise comparativa sobre os provedores de computação em nuvem sob a ótica de tecnologias de virtualização e segurança, destacando as especificidades, pontos fortes e fracos de cada provedor.
 
-Devido ao alto volume de exercícios de programação elaborados para os eventos de programação competitiva no DF, um sistema que classificasse esses problemas de acordo com categorias e permitisse consulta seria interessante para ajudar na capacitação desses estudantes para os eventos supracitados.
 
-\subsection{Referências}
 
+
+\subsubsection*{Referências}
 \begin{itemize}
-	\item \bibentry{site-maratona-ifb}
+	\item \bibentry{DBLP:journals/corr/abs-2208-14482}	
+	\item \bibentry{li2011comparing}
+	\item \bibentry{saraswat2020cloud}
 \end{itemize}
+
+% \section{Orientações concluídas}
+
+% \nsubsection{Uma proposta de Range min-Max tree k-ária para consultas sobre
+% árvores sucintas}
+
+% \begin{itemize}
+% 	\item Aluna: Danyelle da Silva Oliveira Angelo
+% \end{itemize}
+
+% \nsubsection{Otimização e paralelização da construção de $k^2$-trees}
+
+% \begin{itemize}
+% 	\item Aluna: Lauany Reis da Silva
+% \end{itemize}
+
+% \nsubsection{Projeto e implementação de consultas de ranqueamento e seleção em gramáticas baseadas em ordenação de sufixos por indução}
+
+% \begin{itemize}
+% 	\item Aluno: Alan Cardoso Ferreira
+% \end{itemize}
+
+% \nsubsection{Investigação da metaheurística das aranhas sociais para o problema da cobertura de vértices}
+
+% \begin{itemize}
+% 	\item Aluno: Rafael Araujo Gomes da Silva
+% \end{itemize}
+
+% \nsubsection{Sistema inteligente de divulgação de informações do IFG-Formosa}
+
+% \begin{itemize}
+% 	\item Aluno: Matheus de Carvalho Sobrinho
+% \end{itemize}
 
 
 \end{document}
