@@ -9,7 +9,7 @@ layout: default
 
 - [Análise de algoritmos](https://danielsaad.com/analise-de-algoritmos)
 - [Assistência remota para microcomputadores](https://danielsaad.com/assistencia-remota-para-microcomputadores)
-- [Compiladores](https://danielsaad.com/Compiladores)
+- [Compiladores](https://danielsaad.com/compiladores)
 - [Segurança de dados (MSI)](https://danielsaad.com/seguranca-de-dados-msi)
 
 ## Disciplinas Ministradas
