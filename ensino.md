@@ -8,7 +8,7 @@ layout: default
 ## Disciplinas 2024/1
 
 - [Análise de algoritmos](https://danielsaad.com/analise-de-algoritmos)
-- [Assistência remota para microcomputadores](https://danielsaad.com/assistencia-remota-para-microcomputadores)
+- [Assistência Remota para Microcomputadores](https://danielsaad.com/assistencia-remota-para-microcomputadores)
 - [Compiladores](https://danielsaad.com/compiladores)
 - [Segurança de dados (MSI)](https://danielsaad.com/seguranca-de-dados-msi)
 
@@ -31,8 +31,10 @@ layout: default
 ### Técnico
 
 - Administração de Sistemas Operacionais
+- Assistência Remota para Microcomputadores
 - Arquitetura de Computadores
 - Introdução às Redes de Computadores
+- Segurança de Dados
 - Sistemas Operacionais
 - Ferramentas e Utilitários do Sistema
 

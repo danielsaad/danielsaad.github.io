@@ -16,3 +16,4 @@ rvm-install
 *.out
 *.toc
 *.synctex.gz
+.vscode/
