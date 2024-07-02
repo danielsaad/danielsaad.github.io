@@ -5,11 +5,12 @@ layout: default
 # Ensino
 
 
-## Disciplinas 2023/1
+## Disciplinas 2024/1
 
-- [Estrutura de Dados e Algoritmos](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
-- [Teoria da Computação](https://danielsaad.com/teoria-da-computacao)
-- [Programação de Computadores 1](https://danielsaad.com/programacao-de-computadores-1)
+- [Análise de algoritmos](https://danielsaad.com/analise-de-algoritmos)
+- [Assistência remota para microcomputadores](https://danielsaad.com/assistencia-remota-para-microcomputadores)
+- [Compiladores](https://danielsaad.com/Compiladores)
+- [Segurança de dados (MSI)](https://danielsaad.com/seguranca-de-dados-msi)
 
 ## Disciplinas Ministradas
 

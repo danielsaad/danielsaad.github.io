@@ -14,4 +14,5 @@ rvm-install
 *.fls
 *.log
 *.out
+*.toc
 *.synctex.gz
