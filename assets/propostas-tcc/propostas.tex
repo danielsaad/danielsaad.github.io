@@ -34,11 +34,26 @@
 \nobibliography{bibliografia.bib}	
 \bibliographystyle{plainnat}
 
+\newpage
 % \nsubsection{Adequação dos modelos \LaTeX{} para escrita de trabalhos de conclusão de curso}
 
 % Os modelos \LaTeX{} para escrita de conclusão de curso possuem uma série de problemas em relação as normas descritas no \href{https://normaliza.ifb.edu.br/doku.php}{site do IFB} e a norma da ABNT. A adequação desses modelos deve ser realizada com respeito à essas normas.
 
 \section{Ideias para TCC}
+
+
+\nsubsection{Aplicação de algoritmos bioinspirados no problema {\tt BIN-PACKING}}
+
+O problema {\tt BIN-PACKING} é sabidamente um problema $\mathcal{N\!P}$-difícil. Ele consiste em, dado uma coleção de $n$ itens com pesos $W=(w_1,\ldots,w_n)$ e uma capacidade de pacote $C$, determinar o número mínimo de pacotes que podem empacotar os itens, sem que o somatório dos pesos dos itens inseridos em capa pacote não exceda $C$. Uma forma de resolver este problema em tempo viável com uma qualidade de solução satisfatória é utilizar metaheurísticas bioinspiradas. Este problema visa a aplicação destas metaheurísticas e comparação com algoritmos aproximado.
+
+
+\subsubsection*{Referências}
+
+\begin{itemize}
+	\item \bibentry{man1996approximation}
+	\item \bibentry{munien2021metaheuristic}
+\end{itemize}
+
 
 
 \nsubsection{Estudo do problema de alocação de horários nos cursos de computação do IFB-Taguatinga}
@@ -66,6 +81,23 @@ Este trabalho visa a criação de um sistema para correção de trabalhos de pro
 
 
 
+
+\nsubsection{Estudo de ataques ao Datacenter do IFB}
+
+O Datacenter do IFB Taguatinga frequentemente sofre ataques de diversos tipos, como: DDoS, ataques de dicionário, interpretação de URLs, dentre outros.
+Esse estudo visa produzir um relatório de ataques ao Datacenter através da observação dos mesmos em um \textit{honeypot}. Além disso, possíveis contramedidas serão propostas a cada um dos ataques para que sejam implantadas no Datacenter.
+
+\subsubsection*{Referências}
+
+\begin{itemize}
+	\item \bibentry{bringer2012survey}
+	\item \bibentry{javadpour2024comprehensive}
+	\item \bibentry{ilg2023survey}
+	\item \bibentry{stallings2015computer}
+\end{itemize}
+
+
+
 \nsubsection{Elaboração de roteiros de computação desplugada}
 
 A computação desplugada serve como mecanismo para ensino da computação e do pensamento computacional.Diversos roteiros disponíveis contemplam os mais variados assuntos acerca da Ciência da Computação, mas é possível contribuir com novos roteiros didáticos. Este trabalho propõe a criação de roteiros didáticos para aplicação da computação desplugada nas escolas.
@@ -76,10 +108,7 @@ A computação desplugada serve como mecanismo para ensino da computação e do 
 	\item \bibentry{csunplugged}
 \end{itemize}
 
-
-\subsubsection*{Referências}
-
-
+\newpage
 
 \section{Orientações em andamento}
 
@@ -138,39 +167,6 @@ Apesar de possuir diversas funcionalidades, ainda há margem para melhorias, com
 	\item \bibentry{site-ds-contest-tools}
 \end{itemize}
 
-\nsubsection{Aplicação de algoritmos bioinspirados no problema {\tt BIN-PACKING}}
-
-\begin{itemize}
-	\item Aluno: Caio Padilha Aguiar
-\end{itemize}
-
-
-O problema {\tt BIN-PACKING} é sabidamente um problema $\mathcal{N\!P}$-difícil. Ele consiste em, dado uma coleção de $n$ itens com pesos $W=(w_1,\ldots,w_n)$ e uma capacidade de pacote $C$, determinar o número mínimo de pacotes que podem empacotar os itens, sem que o somatório dos pesos dos itens inseridos em capa pacote não exceda $C$. Uma forma de resolver este problema em tempo viável com uma qualidade de solução satisfatória é utilizar metaheurísticas bioinspiradas. Este problema visa a aplicação destas metaheurísticas e comparação com algoritmos aproximado.
-
-
-\subsubsection*{Referências}
-
-\begin{itemize}
-	\item \bibentry{man1996approximation}
-	\item \bibentry{munien2021metaheuristic}
-\end{itemize}
-
-\nsubsection{Construção paralela de $K^2$-trees utilizando GPUs}
-
-\begin{itemize}
-	\item Aluno: Rafael de Paula Filgueiras
-\end{itemize}
-
-As $K^2$-trees são estruturas de dados compactas próprias para representação de grafos \textit{WEB}, isto é, grafos em que os vértices representam páginas \textit{WEB} enquanto as arestas de um vértice para outro indicam que existe um \textit{link} entre uma página e a outra.
-
-Neste trabalho é proposta uma construção da estrutura de dados utilizando a plataforma CUDA de programação paralela em placa de vídeos . Esta implementação paralela deverá ser comparada com implementações sequenciais e paralelas existentes.
-
-\subsubsection*{Referências}
-
-\begin{itemize}
-	\item \bibentry{site-nvidia-cuda}
-	\item \bibentry{DBLP:conf/spire/BrisaboaLN09}
-\end{itemize}
 
 \nsubsection{Comparação de ferramentas de sandboxing em sistemas GNU/Linux}
 
@@ -226,38 +222,46 @@ Este trabalho visa fornecer uma análise comparativa sobre os provedores de comp
 	\item \bibentry{saraswat2020cloud}
 \end{itemize}
 
-% \section{Orientações concluídas}
+\newpage
+\section{Orientações concluídas}
 
-% \nsubsection{Uma proposta de Range min-Max tree k-ária para consultas sobre
-% árvores sucintas}
+\nsubsection{Construção paralela de $K^2$-trees utilizando GPUs}
 
-% \begin{itemize}
-% 	\item Aluna: Danyelle da Silva Oliveira Angelo
-% \end{itemize}
+\begin{itemize}
+	\item Aluno: Rafael de Paula Filgueiras
+\end{itemize}
 
-% \nsubsection{Otimização e paralelização da construção de $k^2$-trees}
 
-% \begin{itemize}
-% 	\item Aluna: Lauany Reis da Silva
-% \end{itemize}
+\nsubsection{Uma proposta de Range min-Max tree k-ária para consultas sobre
+árvores sucintas}
 
-% \nsubsection{Projeto e implementação de consultas de ranqueamento e seleção em gramáticas baseadas em ordenação de sufixos por indução}
+\begin{itemize}
+	\item Aluna: Danyelle da Silva Oliveira Angelo
+\end{itemize}
 
-% \begin{itemize}
-% 	\item Aluno: Alan Cardoso Ferreira
-% \end{itemize}
+\nsubsection{Otimização e paralelização da construção de $k^2$-trees}
 
-% \nsubsection{Investigação da metaheurística das aranhas sociais para o problema da cobertura de vértices}
+\begin{itemize}
+	\item Aluna: Lauany Reis da Silva
+\end{itemize}
 
-% \begin{itemize}
-% 	\item Aluno: Rafael Araujo Gomes da Silva
-% \end{itemize}
+\nsubsection{Projeto e implementação de consultas de ranqueamento e seleção em gramáticas baseadas em ordenação de sufixos por indução}
 
-% \nsubsection{Sistema inteligente de divulgação de informações do IFG-Formosa}
+\begin{itemize}
+	\item Aluno: Alan Cardoso Ferreira
+\end{itemize}
 
-% \begin{itemize}
-% 	\item Aluno: Matheus de Carvalho Sobrinho
-% \end{itemize}
+\nsubsection{Investigação da metaheurística das aranhas sociais para o problema da cobertura de vértices}
+
+\begin{itemize}
+	\item Aluno: Rafael Araujo Gomes da Silva
+\end{itemize}
+
+\nsubsection{Sistema inteligente de divulgação de informações do IFG-Formosa}
+
+\begin{itemize}
+	\item Aluno: Matheus de Carvalho Sobrinho
+\end{itemize}
 
 
 \end{document}
