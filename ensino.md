@@ -4,13 +4,12 @@ layout: default
 
 # Ensino
 
+## Disciplinas 2024/2
 
-## Disciplinas 2024/1
-
-- [Análise de algoritmos](https://danielsaad.com/analise-de-algoritmos)
-- [Assistência Remota para Microcomputadores](https://danielsaad.com/assistencia-remota-para-microcomputadores)
-- [Compiladores](https://danielsaad.com/compiladores)
-- [Segurança de dados (MSI)](https://danielsaad.com/seguranca-de-dados-msi)
+- [Estrutura de Dados e Algoritmos (ABI)](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
+- [Linguagens Formais e Autômatos (BCC)](https://danielsaad.com/linguagens-formais-e-automatos)
+- [Programação de Computadores 1 (ABI)](https://danielsaad.com/programacao-de-computadores-1)
+- [Teoria da Computação (ABI)](https://danielsaad.com/teoria-da-computacao)
 
 ## Disciplinas Ministradas
 
@@ -21,10 +20,12 @@ layout: default
 - Compiladores
 - Estrutura de Dados e Algoritmos
 - Introdução à Programação Competitiva
+- Linguagens Formais e Autômatos
 - Lógica Computacional
 - Segurança de Dados
 - Sistemas Operacionais
 - Programação de Computadores 1
+- Tópicos Especiais em Algoritmos
 - Teoria da Computação
 
 
