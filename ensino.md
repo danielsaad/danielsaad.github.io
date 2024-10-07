@@ -28,7 +28,6 @@ layout: default
 - Tópicos Especiais em Algoritmos
 - Teoria da Computação
 
-
 ### Técnico
 
 - Administração de Sistemas Operacionais
@@ -47,7 +46,7 @@ layout: default
 
 - [Programação Competitiva IFB (Módulo 01)](https://programacao-competitiva-ifb.github.io/programacao-competitiva-ifb/)
 
-#### Legenda
+### Legenda
 
 - ABI: área básica de ingresso do curso superior em Computação
 - BCC: bacharelado em Ciência da Computação
