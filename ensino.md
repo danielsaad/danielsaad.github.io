@@ -6,10 +6,7 @@ layout: default
 
 ## Disciplinas 2024/2
 
-- [Estrutura de Dados e Algoritmos (ABI)](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
-- [Linguagens Formais e Autômatos (BCC)](https://danielsaad.com/linguagens-formais-e-automatos)
-- [Programação de Computadores 1 (ABI)](https://danielsaad.com/programacao-de-computadores-1)
-- [Teoria da Computação (ABI)](https://danielsaad.com/teoria-da-computacao)
+- [Programação de Computadores 1](https://danielsaad.com/programacao-de-computadores-1)
 
 ## Disciplinas Ministradas
 
