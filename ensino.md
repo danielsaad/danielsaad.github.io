@@ -7,6 +7,9 @@ layout: default
 ## Disciplinas 2024/2
 
 - [Programação de Computadores 1](https://danielsaad.com/programacao-de-computadores-1)
+- [Estruturas de Dados e Algoritmos](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
+- [Teoria da Computação](https://danielsaad.com/teoria-da-computacao)
+- [Linguagens Formais e Autômatos](https://danielsaad.com/linguagens-formais-e-automatos)
 
 ## Disciplinas Ministradas
 
