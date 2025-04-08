@@ -4,12 +4,12 @@ layout: default
 
 # Ensino
 
-## Disciplinas 2024/2
+## Disciplinas 2025/1
 
-- [Estrutura de Dados e Algoritmos (ABI)](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
-- [Linguagens Formais e Autômatos (BCC)](https://danielsaad.com/linguagens-formais-e-automatos)
-- [Programação de Computadores 1 (ABI)](https://danielsaad.com/programacao-de-computadores-1)
-- [Teoria da Computação (ABI)](https://danielsaad.com/teoria-da-computacao)
+- [Estrutura de Dados e Algoritmos](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
+- [Análise de Algoritmos](https://danielsaad.com/analise-de-algoritmos)
+- [Compiladores](https://danielsaad.com/compiladores)
+- [Tópicos Especiais em Algoritmos](https://danielsaad.com/topicos-especiais-em-algoritmos)
 
 ## Disciplinas Ministradas
 
