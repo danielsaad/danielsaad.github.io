@@ -8,12 +8,12 @@ layout: default
 
 - [Fábio Lapa (BCC TCC)](https://www.linkedin.com/in/fabio-l-aa1141237/)
 - [Leonam Knupp (BCC TCC e PIBITI 2023)](https://www.linkedin.com/in/leonamknupp/)
-- [Matheus Bezerra (BCC TCC)](https://www.linkedin.com/in/matheus-bezerra-6296b7221/)
-- [Emanuelly Parreira (BCC TCC)](https://www.linkedin.com/in/emanuellyparreira/)
-- [Lucas Bonfim (BCC TCC)]()
 
 ## Anteriores
 
+- [Matheus Bezerra (BCC TCC 2025)](https://www.linkedin.com/in/matheus-bezerra-6296b7221/)
+- [Emanuelly Parreira (BCC TCC 2025)](https://www.linkedin.com/in/emanuellyparreira/)
+- [Lucas Bonfim (BCC TCC 2025)]()
 - [Rafael Filgueiras (BCC TCC 2024)](https://www.linkedin.com/in/rafael-de-paula-filgueiras-1b43781bb/)
 - [Matheus Loiola (BCC PIBITI 2023)](https://www.linkedin.com/in/matheus-loiola-0417151bb/)
 - [Danyelle da Silva Oliveira Angelo (BCC TCC 2021)](https://www.linkedin.com/in/danyelle-angelo-199162a4/)
