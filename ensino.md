@@ -4,12 +4,12 @@ layout: default
 
 # Ensino
 
-## Disciplinas 2025/1
+## Disciplinas 2025/2
 
+- [Programação de Computadores 1](https://danielsaad.com/programacao-de-computadores-1)
 - [Estrutura de Dados e Algoritmos](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
-- [Análise de Algoritmos](https://danielsaad.com/analise-de-algoritmos)
-- [Compiladores](https://danielsaad.com/compiladores)
-- [Tópicos Especiais em Algoritmos](https://danielsaad.com/topicos-especiais-em-algoritmos)
+- [Teoria da Computação](https://danielsaad.com/teoria-da-computacao)
+- [Linguagens Formais e Autômatos](https://danielsaad.com/linguagens-formais-e-automatos)
 
 ## Disciplinas Ministradas
 
