@@ -40,7 +40,7 @@ layout: default
 
 ## Ideias para Trabalhos de Conclusão de Curso
 
-- [Ideias](/assets/propostas-tcc/propostas.pdf)
+- [Ideias]()
 
 ## Projetos de Ensino
 
