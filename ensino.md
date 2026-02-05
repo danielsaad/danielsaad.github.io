@@ -4,12 +4,13 @@ layout: default
 
 # Ensino
 
-## Disciplinas 2025/2
+## Disciplinas 2026/1
 
-- [Programação de Computadores 1](https://danielsaad.com/programacao-de-computadores-1)
+
 - [Estrutura de Dados e Algoritmos](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
 - [Teoria da Computação](https://danielsaad.com/teoria-da-computacao)
-- [Linguagens Formais e Autômatos](https://danielsaad.com/linguagens-formais-e-automatos)
+- [Análise de Algoritmos](https://danielsaad.com/analise-de-algoritmos)
+- [Compiladores](https://danielsaad.com/compiladores)
 
 ## Disciplinas Ministradas
 
@@ -38,18 +39,6 @@ layout: default
 - Sistemas Operacionais
 - Ferramentas e Utilitários do Sistema
 
-## Ideias para Trabalhos de Conclusão de Curso
-
-- [Ideias]()
-
 ## Projetos de Ensino
 
 - [Programação Competitiva IFB (Módulo 01)](https://programacao-competitiva-ifb.github.io/programacao-competitiva-ifb/)
-
-### Legenda
-
-- ABI: área básica de ingresso do curso superior em Computação
-- BCC: bacharelado em Ciência da Computação
-- LC: Licenciatura em Computação
-- LFI: Licenciatura em Física
-- TAI: Tecnologia em Automação Industrial
