@@ -6,10 +6,10 @@ layout: default
 
 ## Atuais
 
-- [Arthur D'Olival (PIBITI 2025 e BCC TCC)]
-- [Camila Anderle (BCC TCC)]]
-- [Hyandra Martins (BCC TCC)]
-- [Igor Moura (BCC TCC)]
+- [Arthur D'Olival (PIBITI 2025 e BCC TCC)]()
+- [Camila Anderle (BCC TCC)]()
+- [Hyandra Martins (BCC TCC)]()
+- [Igor Moura (BCC TCC)]()
 - [Andressa Rocha (BCC TCC)](https://www.linkedin.com/in/andressa-rocha-71b4431bb/)
 - [Fábio Lapa (BCC TCC)](https://www.linkedin.com/in/fabio-l-aa1141237/)
 - [Giovanni Lucas Oliveira](https://www.linkedin.com/in/giovanni-l-o-silva/)
