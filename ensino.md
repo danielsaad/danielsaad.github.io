@@ -4,13 +4,12 @@ layout: default
 
 # Ensino
 
-## Disciplinas 2026/1
+## Disciplinas 2026/2
 
-
-- [Estrutura de Dados e Algoritmos](https://danielsaad.com/estrutura-de-dados-e-algoritmos)
 - [Teoria da Computação](https://danielsaad.com/teoria-da-computacao)
 - [Análise de Algoritmos](https://danielsaad.com/analise-de-algoritmos)
-- [Compiladores](https://danielsaad.com/compiladores)
+- [Teoria dos Grafos](https://danielsaad.com/teoria-dos-grafos)
+- [Linguagens Formais e Autômatos](https://danielsaad.com/linguagens-formais-e-automatos)
 
 ## Disciplinas Ministradas
 
@@ -28,6 +27,7 @@ layout: default
 - Programação de Computadores 1
 - Tópicos Especiais em Algoritmos
 - Teoria da Computação
+- Teoria dos Grafos
 
 ### Técnico
 
