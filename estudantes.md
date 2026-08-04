@@ -19,7 +19,7 @@ layout: default
 
 ## Anteriores
 
-- [Victor Racso Galván (Mestrado IC Unicamp)](https://www.linkedin.com/in/victor-racs%C3%B3-galv%C3%A1n-oyola-1961b8b5/)
+- [Victor Racso Galván (Mestrado IC Unicamp 2026)](https://www.linkedin.com/in/victor-racs%C3%B3-galv%C3%A1n-oyola-1961b8b5/)
 - [Gabriel Gabriel Cardoso de Carvalho (BCC TCC 2025)]()
 - [Matheus Bezerra (BCC TCC 2025)](https://www.linkedin.com/in/matheus-bezerra-6296b7221/)
 - [Emanuelly Parreira (BCC TCC 2025)](https://www.linkedin.com/in/emanuellyparreira/)
