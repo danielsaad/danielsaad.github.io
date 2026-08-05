@@ -6,5 +6,5 @@ layout: default
 
 - E-mail: <daniel.nunes@ifb.edu.br>
 - Sala: Instituto Federal de Brasília, *campus* Taguatinga, D1-15.
-- Horário de atendimento: quintas-feiras, das 10h00 às 12h00.
-- [Horários 2026/1](https://docs.google.com/spreadsheets/d/1K99IC2rK5NgI94DQcpknz-U4DjEYSlwyO7Oe-hDNPLo/edit?usp=sharing)
+- Horário de atendimento: terças às sextas, das 11h40 às 12h10.
+- [Horários 2026/2](https://docs.google.com/spreadsheets/d/e/2PACX-1vQuXzG7_iNZJyViikPlmnH601Uj2krL3Oibg7W4uU2G0LXQw5uCq_tSyg-SfmSnzVbZSfziqdR4wlGn/pubhtml)
